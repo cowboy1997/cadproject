@@ -9,14 +9,14 @@
         "title": "油压产品",
         "type": "folder",
         "thumbnail": "",
-        "updateDate": "2026/04/17",
+        "updateDate": "2026/04/21",
         "children": [
           {
             "id": "project-1",
             "title": "JFC CXHC系列油缸",
             "type": "project",
-            "thumbnail": "./models/JFC CXHC系列油缸.bmp",
-            "updateDate": "2026/04/17",
+            "thumbnail": "./models/3D/JFC CXHC系列油缸/CXHC-A-IN-LA-32-20ST(0)_CN.bmp",
+            "updateDate": "2026/04/21",
             "columns": [
               {
                 "key": "select",
@@ -75,278 +75,411 @@
               {
                 "id": "project-1-1",
                 "index": 1,
-                "thumbnail": "./models/JFC CXHC系列油缸/CXHC-A-IN-LA-32-20ST(0)_CN.bmp",
+                "thumbnail": "./models/3D/JFC CXHC系列油缸/CXHC-A-IN-LA-32-20ST(0)_CN.bmp",
                 "lina": "CXHC-A-IN-LA-32-20ST(0)_CN",
                 "model": "CXHC",
                 "installation": "LA:拉杆型",
                 "bore": 32,
                 "stroke": 20,
-                "previewUrl": "/models/JFC%20CXHC%E7%B3%BB%E5%88%97%E6%B2%B9%E7%BC%B8/CXHC-A-IN-LA-32-20ST(0)_CN.scs&exchangeType=scs",
-                "modelUrl": "/models/JFC%20CXHC%E7%B3%BB%E5%88%97%E6%B2%B9%E7%BC%B8/CXHC-A-IN-LA-32-20ST(0)_CN.prt"
+                "previewUrl": "models/3D/JFC%20CXHC%E7%B3%BB%E5%88%97%E6%B2%B9%E7%BC%B8/CXHC-A-IN-LA-32-20ST(0)_CN.scs",
+                "modelUrl": "models/3D/JFC%20CXHC%E7%B3%BB%E5%88%97%E6%B2%B9%E7%BC%B8/CXHC-A-IN-LA-32-20ST(0)_CN.prt",
+                "dwgFiles": [
+                  {
+                    "name": "CXHC-A-IN-LA-32-20ST(0)_CN_front",
+                    "dwg": "models/2D/JFC%20CXHC%E7%B3%BB%E5%88%97%E6%B2%B9%E7%BC%B8/CXHC-A-IN-LA-32-20ST(0)_CN_front.dwg",
+                    "dcf": "models/2D/JFC%20CXHC%E7%B3%BB%E5%88%97%E6%B2%B9%E7%BC%B8/CXHC-A-IN-LA-32-20ST(0)_CN_front.dcf"
+                  }
+                ]
               },
               {
                 "id": "project-1-2",
                 "index": 2,
-                "thumbnail": "./models/JFC CXHC系列油缸/CXHC-A-IN-LA-32-40ST(0)_CN.bmp",
+                "thumbnail": "./models/3D/JFC CXHC系列油缸/CXHC-A-IN-LA-32-40ST(0)_CN.bmp",
                 "lina": "CXHC-A-IN-LA-32-40ST(0)_CN",
                 "model": "CXHC",
                 "installation": "LA:拉杆型",
                 "bore": 32,
                 "stroke": 40,
-                "previewUrl": "/models/JFC%20CXHC%E7%B3%BB%E5%88%97%E6%B2%B9%E7%BC%B8/CXHC-A-IN-LA-32-40ST(0)_CN.scs&exchangeType=scs",
-                "modelUrl": "/models/JFC%20CXHC%E7%B3%BB%E5%88%97%E6%B2%B9%E7%BC%B8/CXHC-A-IN-LA-32-40ST(0)_CN.prt"
+                "previewUrl": "models/3D/JFC%20CXHC%E7%B3%BB%E5%88%97%E6%B2%B9%E7%BC%B8/CXHC-A-IN-LA-32-40ST(0)_CN.scs",
+                "modelUrl": "models/3D/JFC%20CXHC%E7%B3%BB%E5%88%97%E6%B2%B9%E7%BC%B8/CXHC-A-IN-LA-32-40ST(0)_CN.prt",
+                "dwgFiles": [
+                  {
+                    "name": "CXHC-A-IN-LA-32-40ST(0)_CN_front",
+                    "dwg": "models/2D/JFC%20CXHC%E7%B3%BB%E5%88%97%E6%B2%B9%E7%BC%B8/CXHC-A-IN-LA-32-40ST(0)_CN_front.dwg",
+                    "dcf": "models/2D/JFC%20CXHC%E7%B3%BB%E5%88%97%E6%B2%B9%E7%BC%B8/CXHC-A-IN-LA-32-40ST(0)_CN_front.dcf"
+                  }
+                ]
               },
               {
                 "id": "project-1-3",
                 "index": 3,
-                "thumbnail": "./models/JFC CXHC系列油缸/CXHC-A-IN-SD-32-20ST(0)_CN.bmp",
+                "thumbnail": "./models/3D/JFC CXHC系列油缸/CXHC-A-IN-SD-32-20ST(0)_CN.bmp",
                 "lina": "CXHC-A-IN-SD-32-20ST(0)_CN",
                 "model": "CXHC",
                 "installation": "SD:基本型",
                 "bore": 32,
                 "stroke": 20,
-                "previewUrl": "/models/JFC%20CXHC%E7%B3%BB%E5%88%97%E6%B2%B9%E7%BC%B8/CXHC-A-IN-SD-32-20ST(0)_CN.scs&exchangeType=scs",
-                "modelUrl": "/models/JFC%20CXHC%E7%B3%BB%E5%88%97%E6%B2%B9%E7%BC%B8/CXHC-A-IN-SD-32-20ST(0)_CN.prt"
+                "previewUrl": "models/3D/JFC%20CXHC%E7%B3%BB%E5%88%97%E6%B2%B9%E7%BC%B8/CXHC-A-IN-SD-32-20ST(0)_CN.scs",
+                "modelUrl": "models/3D/JFC%20CXHC%E7%B3%BB%E5%88%97%E6%B2%B9%E7%BC%B8/CXHC-A-IN-SD-32-20ST(0)_CN.prt",
+                "dwgFiles": [
+                  {
+                    "name": "CXHC-A-IN-SD-32-20ST(0)_CN_front",
+                    "dwg": "models/2D/JFC%20CXHC%E7%B3%BB%E5%88%97%E6%B2%B9%E7%BC%B8/CXHC-A-IN-SD-32-20ST(0)_CN_front.dwg",
+                    "dcf": "models/2D/JFC%20CXHC%E7%B3%BB%E5%88%97%E6%B2%B9%E7%BC%B8/CXHC-A-IN-SD-32-20ST(0)_CN_front.dcf"
+                  }
+                ]
               },
               {
                 "id": "project-1-4",
                 "index": 4,
-                "thumbnail": "./models/JFC CXHC系列油缸/CXHC-A-IN-SD-32-40ST(0)_CN.bmp",
+                "thumbnail": "./models/3D/JFC CXHC系列油缸/CXHC-A-IN-SD-32-40ST(0)_CN.bmp",
                 "lina": "CXHC-A-IN-SD-32-40ST(0)_CN",
                 "model": "CXHC",
                 "installation": "SD:基本型",
                 "bore": 32,
                 "stroke": 40,
-                "previewUrl": "/models/JFC%20CXHC%E7%B3%BB%E5%88%97%E6%B2%B9%E7%BC%B8/CXHC-A-IN-SD-32-40ST(0)_CN.scs&exchangeType=scs",
-                "modelUrl": "/models/JFC%20CXHC%E7%B3%BB%E5%88%97%E6%B2%B9%E7%BC%B8/CXHC-A-IN-SD-32-40ST(0)_CN.prt"
+                "previewUrl": "models/3D/JFC%20CXHC%E7%B3%BB%E5%88%97%E6%B2%B9%E7%BC%B8/CXHC-A-IN-SD-32-40ST(0)_CN.scs",
+                "modelUrl": "models/3D/JFC%20CXHC%E7%B3%BB%E5%88%97%E6%B2%B9%E7%BC%B8/CXHC-A-IN-SD-32-40ST(0)_CN.prt",
+                "dwgFiles": [
+                  {
+                    "name": "CXHC-A-IN-SD-32-40ST(0)_CN_front",
+                    "dwg": "models/2D/JFC%20CXHC%E7%B3%BB%E5%88%97%E6%B2%B9%E7%BC%B8/CXHC-A-IN-SD-32-40ST(0)_CN_front.dwg",
+                    "dcf": "models/2D/JFC%20CXHC%E7%B3%BB%E5%88%97%E6%B2%B9%E7%BC%B8/CXHC-A-IN-SD-32-40ST(0)_CN_front.dcf"
+                  }
+                ]
               },
               {
                 "id": "project-1-5",
                 "index": 5,
-                "thumbnail": "./models/JFC CXHC系列油缸/CXHC-A-IN-SD-32-50ST(0)_CN.bmp",
+                "thumbnail": "./models/3D/JFC CXHC系列油缸/CXHC-A-IN-SD-32-50ST(0)_CN.bmp",
                 "lina": "CXHC-A-IN-SD-32-50ST(0)_CN",
                 "model": "CXHC",
                 "installation": "SD:基本型",
                 "bore": 32,
                 "stroke": 50,
-                "previewUrl": "/models/JFC%20CXHC%E7%B3%BB%E5%88%97%E6%B2%B9%E7%BC%B8/CXHC-A-IN-SD-32-50ST(0)_CN.scs&exchangeType=scs",
-                "modelUrl": "/models/JFC%20CXHC%E7%B3%BB%E5%88%97%E6%B2%B9%E7%BC%B8/CXHC-A-IN-SD-32-50ST(0)_CN.prt"
+                "previewUrl": "models/3D/JFC%20CXHC%E7%B3%BB%E5%88%97%E6%B2%B9%E7%BC%B8/CXHC-A-IN-SD-32-50ST(0)_CN.scs",
+                "modelUrl": "models/3D/JFC%20CXHC%E7%B3%BB%E5%88%97%E6%B2%B9%E7%BC%B8/CXHC-A-IN-SD-32-50ST(0)_CN.prt",
+                "dwgFiles": [
+                  {
+                    "name": "CXHC-A-IN-SD-32-50ST(0)_CN_front",
+                    "dwg": "models/2D/JFC%20CXHC%E7%B3%BB%E5%88%97%E6%B2%B9%E7%BC%B8/CXHC-A-IN-SD-32-50ST(0)_CN_front.dwg",
+                    "dcf": "models/2D/JFC%20CXHC%E7%B3%BB%E5%88%97%E6%B2%B9%E7%BC%B8/CXHC-A-IN-SD-32-50ST(0)_CN_front.dcf"
+                  }
+                ]
               },
               {
                 "id": "project-1-6",
                 "index": 6,
-                "thumbnail": "./models/JFC CXHC系列油缸/CXHC2-A-IN-LA-32-100ST-0(0).bmp",
+                "thumbnail": "./models/3D/JFC CXHC系列油缸/CXHC2-A-IN-LA-32-100ST-0(0).bmp",
                 "lina": "CXHC2-A-IN-LA-32-100ST-0(0)",
                 "model": "CXHC",
                 "installation": "LA:拉杆型",
                 "bore": 32,
-                "stroke": "-",
-                "previewUrl": "/models/JFC%20CXHC%E7%B3%BB%E5%88%97%E6%B2%B9%E7%BC%B8/CXHC2-A-IN-LA-32-100ST-0(0).scs&exchangeType=scs",
-                "modelUrl": "/models/JFC%20CXHC%E7%B3%BB%E5%88%97%E6%B2%B9%E7%BC%B8/CXHC2-A-IN-LA-32-100ST-0(0).prt"
+                "stroke": 100,
+                "previewUrl": "models/3D/JFC%20CXHC%E7%B3%BB%E5%88%97%E6%B2%B9%E7%BC%B8/CXHC2-A-IN-LA-32-100ST-0(0).scs",
+                "modelUrl": "models/3D/JFC%20CXHC%E7%B3%BB%E5%88%97%E6%B2%B9%E7%BC%B8/CXHC2-A-IN-LA-32-100ST-0(0).prt",
+                "dwgFiles": [
+                  {
+                    "name": "CXHC2-A-IN-LA-32-100ST-0(0)_front",
+                    "dwg": "models/2D/JFC%20CXHC%E7%B3%BB%E5%88%97%E6%B2%B9%E7%BC%B8/CXHC2-A-IN-LA-32-100ST-0(0)_front.dwg",
+                    "dcf": "models/2D/JFC%20CXHC%E7%B3%BB%E5%88%97%E6%B2%B9%E7%BC%B8/CXHC2-A-IN-LA-32-100ST-0(0)_front.dcf"
+                  }
+                ]
               },
               {
                 "id": "project-1-7",
                 "index": 7,
-                "thumbnail": "./models/JFC CXHC系列油缸/CXHC2-A-IN-LA-32-150ST-0(0).bmp",
+                "thumbnail": "./models/3D/JFC CXHC系列油缸/CXHC2-A-IN-LA-32-150ST-0(0).bmp",
                 "lina": "CXHC2-A-IN-LA-32-150ST-0(0)",
                 "model": "CXHC",
                 "installation": "LA:拉杆型",
                 "bore": 32,
-                "stroke": "-",
-                "previewUrl": "/models/JFC%20CXHC%E7%B3%BB%E5%88%97%E6%B2%B9%E7%BC%B8/CXHC2-A-IN-LA-32-150ST-0(0).scs&exchangeType=scs",
-                "modelUrl": "/models/JFC%20CXHC%E7%B3%BB%E5%88%97%E6%B2%B9%E7%BC%B8/CXHC2-A-IN-LA-32-150ST-0(0).prt"
+                "stroke": 150,
+                "previewUrl": "models/3D/JFC%20CXHC%E7%B3%BB%E5%88%97%E6%B2%B9%E7%BC%B8/CXHC2-A-IN-LA-32-150ST-0(0).scs",
+                "modelUrl": "models/3D/JFC%20CXHC%E7%B3%BB%E5%88%97%E6%B2%B9%E7%BC%B8/CXHC2-A-IN-LA-32-150ST-0(0).prt"
               },
               {
                 "id": "project-1-8",
                 "index": 8,
-                "thumbnail": "./models/JFC CXHC系列油缸/CXHC2-A-IN-LA-32-50ST-0(0).bmp",
+                "thumbnail": "./models/3D/JFC CXHC系列油缸/CXHC2-A-IN-LA-32-50ST-0(0).bmp",
                 "lina": "CXHC2-A-IN-LA-32-50ST-0(0)",
                 "model": "CXHC",
                 "installation": "LA:拉杆型",
                 "bore": 32,
-                "stroke": "-",
-                "previewUrl": "/models/JFC%20CXHC%E7%B3%BB%E5%88%97%E6%B2%B9%E7%BC%B8/CXHC2-A-IN-LA-32-50ST-0(0).scs&exchangeType=scs",
-                "modelUrl": "/models/JFC%20CXHC%E7%B3%BB%E5%88%97%E6%B2%B9%E7%BC%B8/CXHC2-A-IN-LA-32-50ST-0(0).prt"
+                "stroke": 50,
+                "previewUrl": "models/3D/JFC%20CXHC%E7%B3%BB%E5%88%97%E6%B2%B9%E7%BC%B8/CXHC2-A-IN-LA-32-50ST-0(0).scs",
+                "modelUrl": "models/3D/JFC%20CXHC%E7%B3%BB%E5%88%97%E6%B2%B9%E7%BC%B8/CXHC2-A-IN-LA-32-50ST-0(0).prt",
+                "dwgFiles": [
+                  {
+                    "name": "CXHC2-A-IN-LA-32-50ST-0(0)_front",
+                    "dwg": "models/2D/JFC%20CXHC%E7%B3%BB%E5%88%97%E6%B2%B9%E7%BC%B8/CXHC2-A-IN-LA-32-50ST-0(0)_front.dwg",
+                    "dcf": "models/2D/JFC%20CXHC%E7%B3%BB%E5%88%97%E6%B2%B9%E7%BC%B8/CXHC2-A-IN-LA-32-50ST-0(0)_front.dcf"
+                  }
+                ]
               },
               {
                 "id": "project-1-9",
                 "index": 9,
-                "thumbnail": "./models/JFC CXHC系列油缸/CXHC2-A-IN-SA-32-100ST-0(0).bmp",
+                "thumbnail": "./models/3D/JFC CXHC系列油缸/CXHC2-A-IN-SA-32-100ST-0(0).bmp",
                 "lina": "CXHC2-A-IN-SA-32-100ST-0(0)",
                 "model": "CXHC",
                 "installation": "SA:标准型",
                 "bore": 32,
-                "stroke": "-",
-                "previewUrl": "/models/JFC%20CXHC%E7%B3%BB%E5%88%97%E6%B2%B9%E7%BC%B8/CXHC2-A-IN-SA-32-100ST-0(0).scs&exchangeType=scs",
-                "modelUrl": "/models/JFC%20CXHC%E7%B3%BB%E5%88%97%E6%B2%B9%E7%BC%B8/CXHC2-A-IN-SA-32-100ST-0(0).prt"
+                "stroke": 100,
+                "previewUrl": "models/3D/JFC%20CXHC%E7%B3%BB%E5%88%97%E6%B2%B9%E7%BC%B8/CXHC2-A-IN-SA-32-100ST-0(0).scs",
+                "modelUrl": "models/3D/JFC%20CXHC%E7%B3%BB%E5%88%97%E6%B2%B9%E7%BC%B8/CXHC2-A-IN-SA-32-100ST-0(0).prt",
+                "dwgFiles": [
+                  {
+                    "name": "CXHC2-A-IN-SA-32-100ST-0(0)_front",
+                    "dwg": "models/2D/JFC%20CXHC%E7%B3%BB%E5%88%97%E6%B2%B9%E7%BC%B8/CXHC2-A-IN-SA-32-100ST-0(0)_front.dwg",
+                    "dcf": "models/2D/JFC%20CXHC%E7%B3%BB%E5%88%97%E6%B2%B9%E7%BC%B8/CXHC2-A-IN-SA-32-100ST-0(0)_front.dcf"
+                  }
+                ]
               },
               {
                 "id": "project-1-10",
                 "index": 10,
-                "thumbnail": "./models/JFC CXHC系列油缸/CXHC2-A-IN-SA-32-120ST-0(0).bmp",
+                "thumbnail": "./models/3D/JFC CXHC系列油缸/CXHC2-A-IN-SA-32-120ST-0(0).bmp",
                 "lina": "CXHC2-A-IN-SA-32-120ST-0(0)",
                 "model": "CXHC",
                 "installation": "SA:标准型",
                 "bore": 32,
-                "stroke": "-",
-                "previewUrl": "/models/JFC%20CXHC%E7%B3%BB%E5%88%97%E6%B2%B9%E7%BC%B8/CXHC2-A-IN-SA-32-120ST-0(0).scs&exchangeType=scs",
-                "modelUrl": "/models/JFC%20CXHC%E7%B3%BB%E5%88%97%E6%B2%B9%E7%BC%B8/CXHC2-A-IN-SA-32-120ST-0(0).prt"
+                "stroke": 120,
+                "previewUrl": "models/3D/JFC%20CXHC%E7%B3%BB%E5%88%97%E6%B2%B9%E7%BC%B8/CXHC2-A-IN-SA-32-120ST-0(0).scs",
+                "modelUrl": "models/3D/JFC%20CXHC%E7%B3%BB%E5%88%97%E6%B2%B9%E7%BC%B8/CXHC2-A-IN-SA-32-120ST-0(0).prt"
               },
               {
                 "id": "project-1-11",
                 "index": 11,
-                "thumbnail": "./models/JFC CXHC系列油缸/CXHC2-A-IN-SA-32-81ST-0(0).bmp",
+                "thumbnail": "./models/3D/JFC CXHC系列油缸/CXHC2-A-IN-SA-32-81ST-0(0).bmp",
                 "lina": "CXHC2-A-IN-SA-32-81ST-0(0)",
                 "model": "CXHC",
                 "installation": "SA:标准型",
                 "bore": 32,
-                "stroke": "-",
-                "previewUrl": "/models/JFC%20CXHC%E7%B3%BB%E5%88%97%E6%B2%B9%E7%BC%B8/CXHC2-A-IN-SA-32-81ST-0(0).scs&exchangeType=scs",
-                "modelUrl": "/models/JFC%20CXHC%E7%B3%BB%E5%88%97%E6%B2%B9%E7%BC%B8/CXHC2-A-IN-SA-32-81ST-0(0).prt"
+                "stroke": 81,
+                "previewUrl": "models/3D/JFC%20CXHC%E7%B3%BB%E5%88%97%E6%B2%B9%E7%BC%B8/CXHC2-A-IN-SA-32-81ST-0(0).scs",
+                "modelUrl": "models/3D/JFC%20CXHC%E7%B3%BB%E5%88%97%E6%B2%B9%E7%BC%B8/CXHC2-A-IN-SA-32-81ST-0(0).prt"
               },
               {
                 "id": "project-1-12",
                 "index": 12,
-                "thumbnail": "./models/JFC CXHC系列油缸/CXHC2-A-IN-SD-32-40ST-0(0).bmp",
+                "thumbnail": "./models/3D/JFC CXHC系列油缸/CXHC2-A-IN-SD-32-40ST-0(0).bmp",
                 "lina": "CXHC2-A-IN-SD-32-40ST-0(0)",
                 "model": "CXHC",
                 "installation": "SD:基本型",
                 "bore": 32,
-                "stroke": "-",
-                "previewUrl": "/models/JFC%20CXHC%E7%B3%BB%E5%88%97%E6%B2%B9%E7%BC%B8/CXHC2-A-IN-SD-32-40ST-0(0).scs&exchangeType=scs",
-                "modelUrl": "/models/JFC%20CXHC%E7%B3%BB%E5%88%97%E6%B2%B9%E7%BC%B8/CXHC2-A-IN-SD-32-40ST-0(0).prt"
+                "stroke": 40,
+                "previewUrl": "models/3D/JFC%20CXHC%E7%B3%BB%E5%88%97%E6%B2%B9%E7%BC%B8/CXHC2-A-IN-SD-32-40ST-0(0).scs",
+                "modelUrl": "models/3D/JFC%20CXHC%E7%B3%BB%E5%88%97%E6%B2%B9%E7%BC%B8/CXHC2-A-IN-SD-32-40ST-0(0).prt",
+                "dwgFiles": [
+                  {
+                    "name": "CXHC2-A-IN-SD-32-40ST-0(0)_front",
+                    "dwg": "models/2D/JFC%20CXHC%E7%B3%BB%E5%88%97%E6%B2%B9%E7%BC%B8/CXHC2-A-IN-SD-32-40ST-0(0)_front.dwg",
+                    "dcf": "models/2D/JFC%20CXHC%E7%B3%BB%E5%88%97%E6%B2%B9%E7%BC%B8/CXHC2-A-IN-SD-32-40ST-0(0)_front.dcf"
+                  }
+                ]
               },
               {
                 "id": "project-1-13",
                 "index": 13,
-                "thumbnail": "./models/JFC CXHC系列油缸/CXHC2-A-IN-SD-32-50ST-0(0).bmp",
+                "thumbnail": "./models/3D/JFC CXHC系列油缸/CXHC2-A-IN-SD-32-50ST-0(0).bmp",
                 "lina": "CXHC2-A-IN-SD-32-50ST-0(0)",
                 "model": "CXHC",
                 "installation": "SD:基本型",
                 "bore": 32,
-                "stroke": "-",
-                "previewUrl": "/models/JFC%20CXHC%E7%B3%BB%E5%88%97%E6%B2%B9%E7%BC%B8/CXHC2-A-IN-SD-32-50ST-0(0).scs&exchangeType=scs",
-                "modelUrl": "/models/JFC%20CXHC%E7%B3%BB%E5%88%97%E6%B2%B9%E7%BC%B8/CXHC2-A-IN-SD-32-50ST-0(0).prt"
+                "stroke": 50,
+                "previewUrl": "models/3D/JFC%20CXHC%E7%B3%BB%E5%88%97%E6%B2%B9%E7%BC%B8/CXHC2-A-IN-SD-32-50ST-0(0).scs",
+                "modelUrl": "models/3D/JFC%20CXHC%E7%B3%BB%E5%88%97%E6%B2%B9%E7%BC%B8/CXHC2-A-IN-SD-32-50ST-0(0).prt",
+                "dwgFiles": [
+                  {
+                    "name": "CXHC2-A-IN-SD-32-50ST-0(0)_front",
+                    "dwg": "models/2D/JFC%20CXHC%E7%B3%BB%E5%88%97%E6%B2%B9%E7%BC%B8/CXHC2-A-IN-SD-32-50ST-0(0)_front.dwg",
+                    "dcf": "models/2D/JFC%20CXHC%E7%B3%BB%E5%88%97%E6%B2%B9%E7%BC%B8/CXHC2-A-IN-SD-32-50ST-0(0)_front.dcf"
+                  }
+                ]
               },
               {
                 "id": "project-1-14",
                 "index": 14,
-                "thumbnail": "./models/JFC CXHC系列油缸/CXHC2-A-IN-SD-32-60ST-0(0).bmp",
+                "thumbnail": "./models/3D/JFC CXHC系列油缸/CXHC2-A-IN-SD-32-60ST-0(0).bmp",
                 "lina": "CXHC2-A-IN-SD-32-60ST-0(0)",
                 "model": "CXHC",
                 "installation": "SD:基本型",
                 "bore": 32,
-                "stroke": "-",
-                "previewUrl": "/models/JFC%20CXHC%E7%B3%BB%E5%88%97%E6%B2%B9%E7%BC%B8/CXHC2-A-IN-SD-32-60ST-0(0).scs&exchangeType=scs",
-                "modelUrl": "/models/JFC%20CXHC%E7%B3%BB%E5%88%97%E6%B2%B9%E7%BC%B8/CXHC2-A-IN-SD-32-60ST-0(0).prt"
+                "stroke": 60,
+                "previewUrl": "models/3D/JFC%20CXHC%E7%B3%BB%E5%88%97%E6%B2%B9%E7%BC%B8/CXHC2-A-IN-SD-32-60ST-0(0).scs",
+                "modelUrl": "models/3D/JFC%20CXHC%E7%B3%BB%E5%88%97%E6%B2%B9%E7%BC%B8/CXHC2-A-IN-SD-32-60ST-0(0).prt"
               },
               {
                 "id": "project-1-15",
                 "index": 15,
-                "thumbnail": "./models/JFC CXHC系列油缸/CXHC3-MF-IN-LA-32-100_0.bmp",
+                "thumbnail": "./models/3D/JFC CXHC系列油缸/CXHC3-MF-IN-LA-32-100_0.bmp",
                 "lina": "CXHC3-MF-IN-LA-32-100_0",
                 "model": "CXHC",
                 "installation": "LA:拉杆型",
                 "bore": 32,
                 "stroke": 100,
-                "previewUrl": "/models/JFC%20CXHC%E7%B3%BB%E5%88%97%E6%B2%B9%E7%BC%B8/CXHC3-MF-IN-LA-32-100_0.scs&exchangeType=scs",
-                "modelUrl": "/models/JFC%20CXHC%E7%B3%BB%E5%88%97%E6%B2%B9%E7%BC%B8/CXHC3-MF-IN-LA-32-100_0.prt"
+                "previewUrl": "models/3D/JFC%20CXHC%E7%B3%BB%E5%88%97%E6%B2%B9%E7%BC%B8/CXHC3-MF-IN-LA-32-100_0.scs",
+                "modelUrl": "models/3D/JFC%20CXHC%E7%B3%BB%E5%88%97%E6%B2%B9%E7%BC%B8/CXHC3-MF-IN-LA-32-100_0.prt",
+                "dwgFiles": [
+                  {
+                    "name": "CXHC3-MF-IN-LA-32-100_0_front",
+                    "dwg": "models/2D/JFC%20CXHC%E7%B3%BB%E5%88%97%E6%B2%B9%E7%BC%B8/CXHC3-MF-IN-LA-32-100_0_front.dwg",
+                    "dcf": "models/2D/JFC%20CXHC%E7%B3%BB%E5%88%97%E6%B2%B9%E7%BC%B8/CXHC3-MF-IN-LA-32-100_0_front.dcf"
+                  }
+                ]
               },
               {
                 "id": "project-1-16",
                 "index": 16,
-                "thumbnail": "./models/JFC CXHC系列油缸/CXHC3-MF-IN-LA-32-150_0.bmp",
+                "thumbnail": "./models/3D/JFC CXHC系列油缸/CXHC3-MF-IN-LA-32-150_0.bmp",
                 "lina": "CXHC3-MF-IN-LA-32-150_0",
                 "model": "CXHC",
                 "installation": "LA:拉杆型",
                 "bore": 32,
                 "stroke": 150,
-                "previewUrl": "/models/JFC%20CXHC%E7%B3%BB%E5%88%97%E6%B2%B9%E7%BC%B8/CXHC3-MF-IN-LA-32-150_0.scs&exchangeType=scs",
-                "modelUrl": "/models/JFC%20CXHC%E7%B3%BB%E5%88%97%E6%B2%B9%E7%BC%B8/CXHC3-MF-IN-LA-32-150_0.prt"
+                "previewUrl": "models/3D/JFC%20CXHC%E7%B3%BB%E5%88%97%E6%B2%B9%E7%BC%B8/CXHC3-MF-IN-LA-32-150_0.scs",
+                "modelUrl": "models/3D/JFC%20CXHC%E7%B3%BB%E5%88%97%E6%B2%B9%E7%BC%B8/CXHC3-MF-IN-LA-32-150_0.prt",
+                "dwgFiles": [
+                  {
+                    "name": "CXHC3-MF-IN-LA-32-150_0_front",
+                    "dwg": "models/2D/JFC%20CXHC%E7%B3%BB%E5%88%97%E6%B2%B9%E7%BC%B8/CXHC3-MF-IN-LA-32-150_0_front.dwg",
+                    "dcf": "models/2D/JFC%20CXHC%E7%B3%BB%E5%88%97%E6%B2%B9%E7%BC%B8/CXHC3-MF-IN-LA-32-150_0_front.dcf"
+                  }
+                ]
               },
               {
                 "id": "project-1-17",
                 "index": 17,
-                "thumbnail": "./models/JFC CXHC系列油缸/CXHC3-MF-IN-LA-32-50_0.bmp",
+                "thumbnail": "./models/3D/JFC CXHC系列油缸/CXHC3-MF-IN-LA-32-50_0.bmp",
                 "lina": "CXHC3-MF-IN-LA-32-50_0",
                 "model": "CXHC",
                 "installation": "LA:拉杆型",
                 "bore": 32,
                 "stroke": 50,
-                "previewUrl": "/models/JFC%20CXHC%E7%B3%BB%E5%88%97%E6%B2%B9%E7%BC%B8/CXHC3-MF-IN-LA-32-50_0.scs&exchangeType=scs",
-                "modelUrl": "/models/JFC%20CXHC%E7%B3%BB%E5%88%97%E6%B2%B9%E7%BC%B8/CXHC3-MF-IN-LA-32-50_0.prt"
+                "previewUrl": "models/3D/JFC%20CXHC%E7%B3%BB%E5%88%97%E6%B2%B9%E7%BC%B8/CXHC3-MF-IN-LA-32-50_0.scs",
+                "modelUrl": "models/3D/JFC%20CXHC%E7%B3%BB%E5%88%97%E6%B2%B9%E7%BC%B8/CXHC3-MF-IN-LA-32-50_0.prt",
+                "dwgFiles": [
+                  {
+                    "name": "CXHC3-MF-IN-LA-32-50_0_front",
+                    "dwg": "models/2D/JFC%20CXHC%E7%B3%BB%E5%88%97%E6%B2%B9%E7%BC%B8/CXHC3-MF-IN-LA-32-50_0_front.dwg",
+                    "dcf": "models/2D/JFC%20CXHC%E7%B3%BB%E5%88%97%E6%B2%B9%E7%BC%B8/CXHC3-MF-IN-LA-32-50_0_front.dcf"
+                  }
+                ]
               },
               {
                 "id": "project-1-18",
                 "index": 18,
-                "thumbnail": "./models/JFC CXHC系列油缸/MGCXHC-A-IN-LA-32-40ST-Tx1(0).bmp",
+                "thumbnail": "./models/3D/JFC CXHC系列油缸/MGCXHC-A-IN-LA-32-40ST-Tx1(0).bmp",
                 "lina": "MGCXHC-A-IN-LA-32-40ST-Tx1(0)",
                 "model": "CXHC",
                 "installation": "LA:拉杆型",
                 "bore": 32,
-                "stroke": "-",
-                "previewUrl": "/models/JFC%20CXHC%E7%B3%BB%E5%88%97%E6%B2%B9%E7%BC%B8/MGCXHC-A-IN-LA-32-40ST-Tx1(0).scs&exchangeType=scs",
-                "modelUrl": "/models/JFC%20CXHC%E7%B3%BB%E5%88%97%E6%B2%B9%E7%BC%B8/MGCXHC-A-IN-LA-32-40ST-Tx1(0).prt"
+                "stroke": 40,
+                "previewUrl": "models/3D/JFC%20CXHC%E7%B3%BB%E5%88%97%E6%B2%B9%E7%BC%B8/MGCXHC-A-IN-LA-32-40ST-Tx1(0).scs",
+                "modelUrl": "models/3D/JFC%20CXHC%E7%B3%BB%E5%88%97%E6%B2%B9%E7%BC%B8/MGCXHC-A-IN-LA-32-40ST-Tx1(0).prt",
+                "dwgFiles": [
+                  {
+                    "name": "MGCXHC-A-IN-LA-32-40ST-Tx1(0)_front",
+                    "dwg": "models/2D/JFC%20CXHC%E7%B3%BB%E5%88%97%E6%B2%B9%E7%BC%B8/MGCXHC-A-IN-LA-32-40ST-Tx1(0)_front.dwg",
+                    "dcf": "models/2D/JFC%20CXHC%E7%B3%BB%E5%88%97%E6%B2%B9%E7%BC%B8/MGCXHC-A-IN-LA-32-40ST-Tx1(0)_front.dcf"
+                  }
+                ]
               },
               {
                 "id": "project-1-19",
                 "index": 19,
-                "thumbnail": "./models/JFC CXHC系列油缸/MGCXHC-A-IN-LA-32-50ST-Tx1(0).bmp",
+                "thumbnail": "./models/3D/JFC CXHC系列油缸/MGCXHC-A-IN-LA-32-50ST-Tx1(0).bmp",
                 "lina": "MGCXHC-A-IN-LA-32-50ST-Tx1(0)",
                 "model": "CXHC",
                 "installation": "LA:拉杆型",
                 "bore": 32,
-                "stroke": "-",
-                "previewUrl": "/models/JFC%20CXHC%E7%B3%BB%E5%88%97%E6%B2%B9%E7%BC%B8/MGCXHC-A-IN-LA-32-50ST-Tx1(0).scs&exchangeType=scs",
-                "modelUrl": "/models/JFC%20CXHC%E7%B3%BB%E5%88%97%E6%B2%B9%E7%BC%B8/MGCXHC-A-IN-LA-32-50ST-Tx1(0).prt"
+                "stroke": 50,
+                "previewUrl": "models/3D/JFC%20CXHC%E7%B3%BB%E5%88%97%E6%B2%B9%E7%BC%B8/MGCXHC-A-IN-LA-32-50ST-Tx1(0).scs",
+                "modelUrl": "models/3D/JFC%20CXHC%E7%B3%BB%E5%88%97%E6%B2%B9%E7%BC%B8/MGCXHC-A-IN-LA-32-50ST-Tx1(0).prt",
+                "dwgFiles": [
+                  {
+                    "name": "MGCXHC-A-IN-LA-32-50ST-Tx1(0)_front",
+                    "dwg": "models/2D/JFC%20CXHC%E7%B3%BB%E5%88%97%E6%B2%B9%E7%BC%B8/MGCXHC-A-IN-LA-32-50ST-Tx1(0)_front.dwg",
+                    "dcf": "models/2D/JFC%20CXHC%E7%B3%BB%E5%88%97%E6%B2%B9%E7%BC%B8/MGCXHC-A-IN-LA-32-50ST-Tx1(0)_front.dcf"
+                  }
+                ]
               },
               {
                 "id": "project-1-20",
                 "index": 20,
-                "thumbnail": "./models/JFC CXHC系列油缸/MGCXHC-A-IN-LA-32-60ST-Tx1(0).bmp",
+                "thumbnail": "./models/3D/JFC CXHC系列油缸/MGCXHC-A-IN-LA-32-60ST-Tx1(0).bmp",
                 "lina": "MGCXHC-A-IN-LA-32-60ST-Tx1(0)",
                 "model": "CXHC",
                 "installation": "LA:拉杆型",
                 "bore": 32,
-                "stroke": "-",
-                "previewUrl": "/models/JFC%20CXHC%E7%B3%BB%E5%88%97%E6%B2%B9%E7%BC%B8/MGCXHC-A-IN-LA-32-60ST-Tx1(0).scs&exchangeType=scs",
-                "modelUrl": "/models/JFC%20CXHC%E7%B3%BB%E5%88%97%E6%B2%B9%E7%BC%B8/MGCXHC-A-IN-LA-32-60ST-Tx1(0).prt"
+                "stroke": 60,
+                "previewUrl": "models/3D/JFC%20CXHC%E7%B3%BB%E5%88%97%E6%B2%B9%E7%BC%B8/MGCXHC-A-IN-LA-32-60ST-Tx1(0).scs",
+                "modelUrl": "models/3D/JFC%20CXHC%E7%B3%BB%E5%88%97%E6%B2%B9%E7%BC%B8/MGCXHC-A-IN-LA-32-60ST-Tx1(0).prt",
+                "dwgFiles": [
+                  {
+                    "name": "MGCXHC-A-IN-LA-32-60ST-Tx1(0)_front",
+                    "dwg": "models/2D/JFC%20CXHC%E7%B3%BB%E5%88%97%E6%B2%B9%E7%BC%B8/MGCXHC-A-IN-LA-32-60ST-Tx1(0)_front.dwg",
+                    "dcf": "models/2D/JFC%20CXHC%E7%B3%BB%E5%88%97%E6%B2%B9%E7%BC%B8/MGCXHC-A-IN-LA-32-60ST-Tx1(0)_front.dcf"
+                  }
+                ]
               },
               {
                 "id": "project-1-21",
                 "index": 21,
-                "thumbnail": "./models/JFC CXHC系列油缸/MGCXHC-A-IN-SD-32-40ST-Tx1(0).bmp",
+                "thumbnail": "./models/3D/JFC CXHC系列油缸/MGCXHC-A-IN-SD-32-40ST-Tx1(0).bmp",
                 "lina": "MGCXHC-A-IN-SD-32-40ST-Tx1(0)",
                 "model": "CXHC",
                 "installation": "SD:基本型",
                 "bore": 32,
-                "stroke": "-",
-                "previewUrl": "/models/JFC%20CXHC%E7%B3%BB%E5%88%97%E6%B2%B9%E7%BC%B8/MGCXHC-A-IN-SD-32-40ST-Tx1(0).scs&exchangeType=scs",
-                "modelUrl": "/models/JFC%20CXHC%E7%B3%BB%E5%88%97%E6%B2%B9%E7%BC%B8/MGCXHC-A-IN-SD-32-40ST-Tx1(0).prt"
+                "stroke": 40,
+                "previewUrl": "models/3D/JFC%20CXHC%E7%B3%BB%E5%88%97%E6%B2%B9%E7%BC%B8/MGCXHC-A-IN-SD-32-40ST-Tx1(0).scs",
+                "modelUrl": "models/3D/JFC%20CXHC%E7%B3%BB%E5%88%97%E6%B2%B9%E7%BC%B8/MGCXHC-A-IN-SD-32-40ST-Tx1(0).prt",
+                "dwgFiles": [
+                  {
+                    "name": "MGCXHC-A-IN-SD-32-40ST-Tx1(0)_front",
+                    "dwg": "models/2D/JFC%20CXHC%E7%B3%BB%E5%88%97%E6%B2%B9%E7%BC%B8/MGCXHC-A-IN-SD-32-40ST-Tx1(0)_front.dwg",
+                    "dcf": "models/2D/JFC%20CXHC%E7%B3%BB%E5%88%97%E6%B2%B9%E7%BC%B8/MGCXHC-A-IN-SD-32-40ST-Tx1(0)_front.dcf"
+                  }
+                ]
               },
               {
                 "id": "project-1-22",
                 "index": 22,
-                "thumbnail": "./models/JFC CXHC系列油缸/MGCXHC-A-IN-SD-32-50ST-Tx1(0).bmp",
+                "thumbnail": "./models/3D/JFC CXHC系列油缸/MGCXHC-A-IN-SD-32-50ST-Tx1(0).bmp",
                 "lina": "MGCXHC-A-IN-SD-32-50ST-Tx1(0)",
                 "model": "CXHC",
                 "installation": "SD:基本型",
                 "bore": 32,
-                "stroke": "-",
-                "previewUrl": "/models/JFC%20CXHC%E7%B3%BB%E5%88%97%E6%B2%B9%E7%BC%B8/MGCXHC-A-IN-SD-32-50ST-Tx1(0).scs&exchangeType=scs",
-                "modelUrl": "/models/JFC%20CXHC%E7%B3%BB%E5%88%97%E6%B2%B9%E7%BC%B8/MGCXHC-A-IN-SD-32-50ST-Tx1(0).prt"
+                "stroke": 50,
+                "previewUrl": "models/3D/JFC%20CXHC%E7%B3%BB%E5%88%97%E6%B2%B9%E7%BC%B8/MGCXHC-A-IN-SD-32-50ST-Tx1(0).scs",
+                "modelUrl": "models/3D/JFC%20CXHC%E7%B3%BB%E5%88%97%E6%B2%B9%E7%BC%B8/MGCXHC-A-IN-SD-32-50ST-Tx1(0).prt",
+                "dwgFiles": [
+                  {
+                    "name": "MGCXHC-A-IN-SD-32-50ST-Tx1(0)_front",
+                    "dwg": "models/2D/JFC%20CXHC%E7%B3%BB%E5%88%97%E6%B2%B9%E7%BC%B8/MGCXHC-A-IN-SD-32-50ST-Tx1(0)_front.dwg",
+                    "dcf": "models/2D/JFC%20CXHC%E7%B3%BB%E5%88%97%E6%B2%B9%E7%BC%B8/MGCXHC-A-IN-SD-32-50ST-Tx1(0)_front.dcf"
+                  }
+                ]
               },
               {
                 "id": "project-1-23",
                 "index": 23,
-                "thumbnail": "./models/JFC CXHC系列油缸/MGCXHC-A-IN-SD-32-60ST-Tx1(0).bmp",
+                "thumbnail": "./models/3D/JFC CXHC系列油缸/MGCXHC-A-IN-SD-32-60ST-Tx1(0).bmp",
                 "lina": "MGCXHC-A-IN-SD-32-60ST-Tx1(0)",
                 "model": "CXHC",
                 "installation": "SD:基本型",
                 "bore": 32,
-                "stroke": "-",
-                "previewUrl": "/models/JFC%20CXHC%E7%B3%BB%E5%88%97%E6%B2%B9%E7%BC%B8/MGCXHC-A-IN-SD-32-60ST-Tx1(0).scs&exchangeType=scs",
-                "modelUrl": "/models/JFC%20CXHC%E7%B3%BB%E5%88%97%E6%B2%B9%E7%BC%B8/MGCXHC-A-IN-SD-32-60ST-Tx1(0).prt"
+                "stroke": 60,
+                "previewUrl": "models/3D/JFC%20CXHC%E7%B3%BB%E5%88%97%E6%B2%B9%E7%BC%B8/MGCXHC-A-IN-SD-32-60ST-Tx1(0).scs",
+                "modelUrl": "models/3D/JFC%20CXHC%E7%B3%BB%E5%88%97%E6%B2%B9%E7%BC%B8/MGCXHC-A-IN-SD-32-60ST-Tx1(0).prt",
+                "dwgFiles": [
+                  {
+                    "name": "MGCXHC-A-IN-SD-32-60ST-Tx1(0)_front",
+                    "dwg": "models/2D/JFC%20CXHC%E7%B3%BB%E5%88%97%E6%B2%B9%E7%BC%B8/MGCXHC-A-IN-SD-32-60ST-Tx1(0)_front.dwg",
+                    "dcf": "models/2D/JFC%20CXHC%E7%B3%BB%E5%88%97%E6%B2%B9%E7%BC%B8/MGCXHC-A-IN-SD-32-60ST-Tx1(0)_front.dcf"
+                  }
+                ]
               }
             ]
           },
@@ -354,8 +487,8 @@
             "id": "project-2",
             "title": "JFC HC系列油缸",
             "type": "project",
-            "thumbnail": "./models/JFC HC系列油缸.bmp",
-            "updateDate": "2026/04/17",
+            "thumbnail": "./models/3D/JFC HC系列油缸/HC-A-70-SD-C-32-100-0-A(0).bmp",
+            "updateDate": "2026/04/21",
             "columns": [
               {
                 "key": "select",
@@ -414,191 +547,254 @@
               {
                 "id": "project-2-1",
                 "index": 1,
-                "thumbnail": "./models/JFC HC系列油缸/HC-A-70-SD-C-32-100-0-A(0).bmp",
+                "thumbnail": "./models/3D/JFC HC系列油缸/HC-A-70-SD-C-32-100-0-A(0).bmp",
                 "lina": "HC-A-70-SD-C-32-100-0-A(0)",
                 "model": "HC",
                 "installation": "SD:基本型",
-                "bore": 70,
-                "stroke": "-",
-                "previewUrl": "/models/JFC%20HC%E7%B3%BB%E5%88%97%E6%B2%B9%E7%BC%B8/HC-A-70-SD-C-32-100-0-A(0).scs&exchangeType=scs",
-                "modelUrl": "/models/JFC%20HC%E7%B3%BB%E5%88%97%E6%B2%B9%E7%BC%B8/HC-A-70-SD-C-32-100-0-A(0).prt"
+                "bore": 32,
+                "stroke": 100,
+                "previewUrl": "models/3D/JFC%20HC%E7%B3%BB%E5%88%97%E6%B2%B9%E7%BC%B8/HC-A-70-SD-C-32-100-0-A(0).scs",
+                "modelUrl": "models/3D/JFC%20HC%E7%B3%BB%E5%88%97%E6%B2%B9%E7%BC%B8/HC-A-70-SD-C-32-100-0-A(0).prt"
               },
               {
                 "id": "project-2-2",
                 "index": 2,
-                "thumbnail": "./models/JFC HC系列油缸/HC-A-70-SD-C-32-150-0-A(0).bmp",
+                "thumbnail": "./models/3D/JFC HC系列油缸/HC-A-70-SD-C-32-150-0-A(0).bmp",
                 "lina": "HC-A-70-SD-C-32-150-0-A(0)",
                 "model": "HC",
                 "installation": "SD:基本型",
-                "bore": 70,
-                "stroke": "-",
-                "previewUrl": "/models/JFC%20HC%E7%B3%BB%E5%88%97%E6%B2%B9%E7%BC%B8/HC-A-70-SD-C-32-150-0-A(0).scs&exchangeType=scs",
-                "modelUrl": "/models/JFC%20HC%E7%B3%BB%E5%88%97%E6%B2%B9%E7%BC%B8/HC-A-70-SD-C-32-150-0-A(0).prt"
+                "bore": 32,
+                "stroke": 150,
+                "previewUrl": "models/3D/JFC%20HC%E7%B3%BB%E5%88%97%E6%B2%B9%E7%BC%B8/HC-A-70-SD-C-32-150-0-A(0).scs",
+                "modelUrl": "models/3D/JFC%20HC%E7%B3%BB%E5%88%97%E6%B2%B9%E7%BC%B8/HC-A-70-SD-C-32-150-0-A(0).prt"
               },
               {
                 "id": "project-2-3",
                 "index": 3,
-                "thumbnail": "./models/JFC HC系列油缸/HC-A-70-SD-C-32-50-0-A(0).bmp",
+                "thumbnail": "./models/3D/JFC HC系列油缸/HC-A-70-SD-C-32-50-0-A(0).bmp",
                 "lina": "HC-A-70-SD-C-32-50-0-A(0)",
                 "model": "HC",
                 "installation": "SD:基本型",
-                "bore": 70,
-                "stroke": "-",
-                "previewUrl": "/models/JFC%20HC%E7%B3%BB%E5%88%97%E6%B2%B9%E7%BC%B8/HC-A-70-SD-C-32-50-0-A(0).scs&exchangeType=scs",
-                "modelUrl": "/models/JFC%20HC%E7%B3%BB%E5%88%97%E6%B2%B9%E7%BC%B8/HC-A-70-SD-C-32-50-0-A(0).prt"
+                "bore": 32,
+                "stroke": 50,
+                "previewUrl": "models/3D/JFC%20HC%E7%B3%BB%E5%88%97%E6%B2%B9%E7%BC%B8/HC-A-70-SD-C-32-50-0-A(0).scs",
+                "modelUrl": "models/3D/JFC%20HC%E7%B3%BB%E5%88%97%E6%B2%B9%E7%BC%B8/HC-A-70-SD-C-32-50-0-A(0).prt"
               },
               {
                 "id": "project-2-4",
                 "index": 4,
-                "thumbnail": "./models/JFC HC系列油缸/HC2-A-70-SD-C-32-100-A_0_.bmp",
+                "thumbnail": "./models/3D/JFC HC系列油缸/HC2-A-70-SD-C-32-100-A_0_.bmp",
                 "lina": "HC2-A-70-SD-C-32-100-A_0_",
                 "model": "HC",
                 "installation": "SD:基本型",
-                "bore": 70,
-                "stroke": "-",
-                "previewUrl": "/models/JFC%20HC%E7%B3%BB%E5%88%97%E6%B2%B9%E7%BC%B8/HC2-A-70-SD-C-32-100-A_0_.scs&exchangeType=scs",
-                "modelUrl": "/models/JFC%20HC%E7%B3%BB%E5%88%97%E6%B2%B9%E7%BC%B8/HC2-A-70-SD-C-32-100-A_0_.prt"
+                "bore": 32,
+                "stroke": 100,
+                "previewUrl": "models/3D/JFC%20HC%E7%B3%BB%E5%88%97%E6%B2%B9%E7%BC%B8/HC2-A-70-SD-C-32-100-A_0_.scs",
+                "modelUrl": "models/3D/JFC%20HC%E7%B3%BB%E5%88%97%E6%B2%B9%E7%BC%B8/HC2-A-70-SD-C-32-100-A_0_.prt"
               },
               {
                 "id": "project-2-5",
                 "index": 5,
-                "thumbnail": "./models/JFC HC系列油缸/HC2-A-70-SD-C-32-150-A_0_.bmp",
+                "thumbnail": "./models/3D/JFC HC系列油缸/HC2-A-70-SD-C-32-150-A_0_.bmp",
                 "lina": "HC2-A-70-SD-C-32-150-A_0_",
                 "model": "HC",
                 "installation": "SD:基本型",
-                "bore": 70,
-                "stroke": "-",
-                "previewUrl": "/models/JFC%20HC%E7%B3%BB%E5%88%97%E6%B2%B9%E7%BC%B8/HC2-A-70-SD-C-32-150-A_0_.scs&exchangeType=scs",
-                "modelUrl": "/models/JFC%20HC%E7%B3%BB%E5%88%97%E6%B2%B9%E7%BC%B8/HC2-A-70-SD-C-32-150-A_0_.prt"
+                "bore": 32,
+                "stroke": 150,
+                "previewUrl": "models/3D/JFC%20HC%E7%B3%BB%E5%88%97%E6%B2%B9%E7%BC%B8/HC2-A-70-SD-C-32-150-A_0_.scs",
+                "modelUrl": "models/3D/JFC%20HC%E7%B3%BB%E5%88%97%E6%B2%B9%E7%BC%B8/HC2-A-70-SD-C-32-150-A_0_.prt"
               },
               {
                 "id": "project-2-6",
                 "index": 6,
-                "thumbnail": "./models/JFC HC系列油缸/HC2-A-70-SD-C-32-50-A_0_.bmp",
+                "thumbnail": "./models/3D/JFC HC系列油缸/HC2-A-70-SD-C-32-50-A_0_.bmp",
                 "lina": "HC2-A-70-SD-C-32-50-A_0_",
                 "model": "HC",
                 "installation": "SD:基本型",
-                "bore": 70,
-                "stroke": "-",
-                "previewUrl": "/models/JFC%20HC%E7%B3%BB%E5%88%97%E6%B2%B9%E7%BC%B8/HC2-A-70-SD-C-32-50-A_0_.scs&exchangeType=scs",
-                "modelUrl": "/models/JFC%20HC%E7%B3%BB%E5%88%97%E6%B2%B9%E7%BC%B8/HC2-A-70-SD-C-32-50-A_0_.prt"
+                "bore": 32,
+                "stroke": 50,
+                "previewUrl": "models/3D/JFC%20HC%E7%B3%BB%E5%88%97%E6%B2%B9%E7%BC%B8/HC2-A-70-SD-C-32-50-A_0_.scs",
+                "modelUrl": "models/3D/JFC%20HC%E7%B3%BB%E5%88%97%E6%B2%B9%E7%BC%B8/HC2-A-70-SD-C-32-50-A_0_.prt"
               },
               {
                 "id": "project-2-7",
                 "index": 7,
-                "thumbnail": "./models/JFC HC系列油缸/HC210-A-SD-40-100-0-A(0).bmp",
+                "thumbnail": "./models/3D/JFC HC系列油缸/HC210-A-SD-40-100-0-A(0).bmp",
                 "lina": "HC210-A-SD-40-100-0-A(0)",
                 "model": "HC",
                 "installation": "SD:基本型",
                 "bore": 40,
-                "stroke": "-",
-                "previewUrl": "/models/JFC%20HC%E7%B3%BB%E5%88%97%E6%B2%B9%E7%BC%B8/HC210-A-SD-40-100-0-A(0).scs&exchangeType=scs",
-                "modelUrl": "/models/JFC%20HC%E7%B3%BB%E5%88%97%E6%B2%B9%E7%BC%B8/HC210-A-SD-40-100-0-A(0).prt"
+                "stroke": 100,
+                "previewUrl": "models/3D/JFC%20HC%E7%B3%BB%E5%88%97%E6%B2%B9%E7%BC%B8/HC210-A-SD-40-100-0-A(0).scs",
+                "modelUrl": "models/3D/JFC%20HC%E7%B3%BB%E5%88%97%E6%B2%B9%E7%BC%B8/HC210-A-SD-40-100-0-A(0).prt",
+                "dwgFiles": [
+                  {
+                    "name": "HC210-A-SD-40-100-0-A(0)_front",
+                    "dwg": "models/2D/JFC%20HC%E7%B3%BB%E5%88%97%E6%B2%B9%E7%BC%B8/HC210-A-SD-40-100-0-A(0)_front.dwg",
+                    "dcf": "models/2D/JFC%20HC%E7%B3%BB%E5%88%97%E6%B2%B9%E7%BC%B8/HC210-A-SD-40-100-0-A(0)_front.dcf"
+                  }
+                ]
               },
               {
                 "id": "project-2-8",
                 "index": 8,
-                "thumbnail": "./models/JFC HC系列油缸/HC210-A-SD-40-150-0-A(0).bmp",
+                "thumbnail": "./models/3D/JFC HC系列油缸/HC210-A-SD-40-150-0-A(0).bmp",
                 "lina": "HC210-A-SD-40-150-0-A(0)",
                 "model": "HC",
                 "installation": "SD:基本型",
                 "bore": 40,
-                "stroke": "-",
-                "previewUrl": "/models/JFC%20HC%E7%B3%BB%E5%88%97%E6%B2%B9%E7%BC%B8/HC210-A-SD-40-150-0-A(0).scs&exchangeType=scs",
-                "modelUrl": "/models/JFC%20HC%E7%B3%BB%E5%88%97%E6%B2%B9%E7%BC%B8/HC210-A-SD-40-150-0-A(0).prt"
+                "stroke": 150,
+                "previewUrl": "models/3D/JFC%20HC%E7%B3%BB%E5%88%97%E6%B2%B9%E7%BC%B8/HC210-A-SD-40-150-0-A(0).scs",
+                "modelUrl": "models/3D/JFC%20HC%E7%B3%BB%E5%88%97%E6%B2%B9%E7%BC%B8/HC210-A-SD-40-150-0-A(0).prt",
+                "dwgFiles": [
+                  {
+                    "name": "HC210-A-SD-40-150-0-A(0)_front",
+                    "dwg": "models/2D/JFC%20HC%E7%B3%BB%E5%88%97%E6%B2%B9%E7%BC%B8/HC210-A-SD-40-150-0-A(0)_front.dwg",
+                    "dcf": "models/2D/JFC%20HC%E7%B3%BB%E5%88%97%E6%B2%B9%E7%BC%B8/HC210-A-SD-40-150-0-A(0)_front.dcf"
+                  }
+                ]
               },
               {
                 "id": "project-2-9",
                 "index": 9,
-                "thumbnail": "./models/JFC HC系列油缸/HC210-A-SD-40-50-0-A(0).bmp",
+                "thumbnail": "./models/3D/JFC HC系列油缸/HC210-A-SD-40-50-0-A(0).bmp",
                 "lina": "HC210-A-SD-40-50-0-A(0)",
                 "model": "HC",
                 "installation": "SD:基本型",
                 "bore": 40,
-                "stroke": "-",
-                "previewUrl": "/models/JFC%20HC%E7%B3%BB%E5%88%97%E6%B2%B9%E7%BC%B8/HC210-A-SD-40-50-0-A(0).scs&exchangeType=scs",
-                "modelUrl": "/models/JFC%20HC%E7%B3%BB%E5%88%97%E6%B2%B9%E7%BC%B8/HC210-A-SD-40-50-0-A(0).prt"
+                "stroke": 50,
+                "previewUrl": "models/3D/JFC%20HC%E7%B3%BB%E5%88%97%E6%B2%B9%E7%BC%B8/HC210-A-SD-40-50-0-A(0).scs",
+                "modelUrl": "models/3D/JFC%20HC%E7%B3%BB%E5%88%97%E6%B2%B9%E7%BC%B8/HC210-A-SD-40-50-0-A(0).prt",
+                "dwgFiles": [
+                  {
+                    "name": "HC210-A-SD-40-50-0-A(0)_front",
+                    "dwg": "models/2D/JFC%20HC%E7%B3%BB%E5%88%97%E6%B2%B9%E7%BC%B8/HC210-A-SD-40-50-0-A(0)_front.dwg",
+                    "dcf": "models/2D/JFC%20HC%E7%B3%BB%E5%88%97%E6%B2%B9%E7%BC%B8/HC210-A-SD-40-50-0-A(0)_front.dcf"
+                  }
+                ]
               },
               {
                 "id": "project-2-10",
                 "index": 10,
-                "thumbnail": "./models/JFC HC系列油缸/MGHC-A-70-SD-C-32-100-Tx1-1-0-A(0).bmp",
+                "thumbnail": "./models/3D/JFC HC系列油缸/MGHC-A-70-SD-C-32-100-Tx1-1-0-A(0).bmp",
                 "lina": "MGHC-A-70-SD-C-32-100-Tx1-1-0-A(0)",
                 "model": "HC",
                 "installation": "SD:基本型",
-                "bore": 70,
-                "stroke": "-",
-                "previewUrl": "/models/JFC%20HC%E7%B3%BB%E5%88%97%E6%B2%B9%E7%BC%B8/MGHC-A-70-SD-C-32-100-Tx1-1-0-A(0).scs&exchangeType=scs",
-                "modelUrl": "/models/JFC%20HC%E7%B3%BB%E5%88%97%E6%B2%B9%E7%BC%B8/MGHC-A-70-SD-C-32-100-Tx1-1-0-A(0).prt"
+                "bore": 32,
+                "stroke": 100,
+                "previewUrl": "models/3D/JFC%20HC%E7%B3%BB%E5%88%97%E6%B2%B9%E7%BC%B8/MGHC-A-70-SD-C-32-100-Tx1-1-0-A(0).scs",
+                "modelUrl": "models/3D/JFC%20HC%E7%B3%BB%E5%88%97%E6%B2%B9%E7%BC%B8/MGHC-A-70-SD-C-32-100-Tx1-1-0-A(0).prt",
+                "dwgFiles": [
+                  {
+                    "name": "MGHC-A-70-SD-C-32-100-Tx1-1-0-A(0)_front",
+                    "dwg": "models/2D/JFC%20HC%E7%B3%BB%E5%88%97%E6%B2%B9%E7%BC%B8/MGHC-A-70-SD-C-32-100-Tx1-1-0-A(0)_front.dwg",
+                    "dcf": "models/2D/JFC%20HC%E7%B3%BB%E5%88%97%E6%B2%B9%E7%BC%B8/MGHC-A-70-SD-C-32-100-Tx1-1-0-A(0)_front.dcf"
+                  }
+                ]
               },
               {
                 "id": "project-2-11",
                 "index": 11,
-                "thumbnail": "./models/JFC HC系列油缸/MGHC-A-70-SD-C-32-150-Tx1-1-0-A(0).bmp",
+                "thumbnail": "./models/3D/JFC HC系列油缸/MGHC-A-70-SD-C-32-150-Tx1-1-0-A(0).bmp",
                 "lina": "MGHC-A-70-SD-C-32-150-Tx1-1-0-A(0)",
                 "model": "HC",
                 "installation": "SD:基本型",
-                "bore": 70,
-                "stroke": "-",
-                "previewUrl": "/models/JFC%20HC%E7%B3%BB%E5%88%97%E6%B2%B9%E7%BC%B8/MGHC-A-70-SD-C-32-150-Tx1-1-0-A(0).scs&exchangeType=scs",
-                "modelUrl": "/models/JFC%20HC%E7%B3%BB%E5%88%97%E6%B2%B9%E7%BC%B8/MGHC-A-70-SD-C-32-150-Tx1-1-0-A(0).prt"
+                "bore": 32,
+                "stroke": 150,
+                "previewUrl": "models/3D/JFC%20HC%E7%B3%BB%E5%88%97%E6%B2%B9%E7%BC%B8/MGHC-A-70-SD-C-32-150-Tx1-1-0-A(0).scs",
+                "modelUrl": "models/3D/JFC%20HC%E7%B3%BB%E5%88%97%E6%B2%B9%E7%BC%B8/MGHC-A-70-SD-C-32-150-Tx1-1-0-A(0).prt",
+                "dwgFiles": [
+                  {
+                    "name": "MGHC-A-70-SD-C-32-150-Tx1-1-0-A(0)_front",
+                    "dwg": "models/2D/JFC%20HC%E7%B3%BB%E5%88%97%E6%B2%B9%E7%BC%B8/MGHC-A-70-SD-C-32-150-Tx1-1-0-A(0)_front.dwg",
+                    "dcf": "models/2D/JFC%20HC%E7%B3%BB%E5%88%97%E6%B2%B9%E7%BC%B8/MGHC-A-70-SD-C-32-150-Tx1-1-0-A(0)_front.dcf"
+                  }
+                ]
               },
               {
                 "id": "project-2-12",
                 "index": 12,
-                "thumbnail": "./models/JFC HC系列油缸/MGHC-A-70-SD-C-32-50-Tx1-1-0-A(0).bmp",
+                "thumbnail": "./models/3D/JFC HC系列油缸/MGHC-A-70-SD-C-32-50-Tx1-1-0-A(0).bmp",
                 "lina": "MGHC-A-70-SD-C-32-50-Tx1-1-0-A(0)",
                 "model": "HC",
                 "installation": "SD:基本型",
-                "bore": 70,
-                "stroke": "-",
-                "previewUrl": "/models/JFC%20HC%E7%B3%BB%E5%88%97%E6%B2%B9%E7%BC%B8/MGHC-A-70-SD-C-32-50-Tx1-1-0-A(0).scs&exchangeType=scs",
-                "modelUrl": "/models/JFC%20HC%E7%B3%BB%E5%88%97%E6%B2%B9%E7%BC%B8/MGHC-A-70-SD-C-32-50-Tx1-1-0-A(0).prt"
+                "bore": 32,
+                "stroke": 50,
+                "previewUrl": "models/3D/JFC%20HC%E7%B3%BB%E5%88%97%E6%B2%B9%E7%BC%B8/MGHC-A-70-SD-C-32-50-Tx1-1-0-A(0).scs",
+                "modelUrl": "models/3D/JFC%20HC%E7%B3%BB%E5%88%97%E6%B2%B9%E7%BC%B8/MGHC-A-70-SD-C-32-50-Tx1-1-0-A(0).prt",
+                "dwgFiles": [
+                  {
+                    "name": "MGHC-A-70-SD-C-32-50-Tx1-1-0-A(0)_front",
+                    "dwg": "models/2D/JFC%20HC%E7%B3%BB%E5%88%97%E6%B2%B9%E7%BC%B8/MGHC-A-70-SD-C-32-50-Tx1-1-0-A(0)_front.dwg",
+                    "dcf": "models/2D/JFC%20HC%E7%B3%BB%E5%88%97%E6%B2%B9%E7%BC%B8/MGHC-A-70-SD-C-32-50-Tx1-1-0-A(0)_front.dcf"
+                  }
+                ]
               },
               {
                 "id": "project-2-13",
                 "index": 13,
-                "thumbnail": "./models/JFC HC系列油缸/MGHC2-A-70-SD-C-32-100-Tx1-1-0-A(0).bmp",
+                "thumbnail": "./models/3D/JFC HC系列油缸/MGHC2-A-70-SD-C-32-100-Tx1-1-0-A(0).bmp",
                 "lina": "MGHC2-A-70-SD-C-32-100-Tx1-1-0-A(0)",
                 "model": "HC",
                 "installation": "SD:基本型",
-                "bore": 70,
-                "stroke": "-",
-                "previewUrl": "/models/JFC%20HC%E7%B3%BB%E5%88%97%E6%B2%B9%E7%BC%B8/MGHC2-A-70-SD-C-32-100-Tx1-1-0-A(0).scs&exchangeType=scs",
-                "modelUrl": "/models/JFC%20HC%E7%B3%BB%E5%88%97%E6%B2%B9%E7%BC%B8/MGHC2-A-70-SD-C-32-100-Tx1-1-0-A(0).prt"
+                "bore": 32,
+                "stroke": 100,
+                "previewUrl": "models/3D/JFC%20HC%E7%B3%BB%E5%88%97%E6%B2%B9%E7%BC%B8/MGHC2-A-70-SD-C-32-100-Tx1-1-0-A(0).scs",
+                "modelUrl": "models/3D/JFC%20HC%E7%B3%BB%E5%88%97%E6%B2%B9%E7%BC%B8/MGHC2-A-70-SD-C-32-100-Tx1-1-0-A(0).prt",
+                "dwgFiles": [
+                  {
+                    "name": "MGHC2-A-70-SD-C-32-100-Tx1-1-0-A(0)_front",
+                    "dwg": "models/2D/JFC%20HC%E7%B3%BB%E5%88%97%E6%B2%B9%E7%BC%B8/MGHC2-A-70-SD-C-32-100-Tx1-1-0-A(0)_front.dwg",
+                    "dcf": "models/2D/JFC%20HC%E7%B3%BB%E5%88%97%E6%B2%B9%E7%BC%B8/MGHC2-A-70-SD-C-32-100-Tx1-1-0-A(0)_front.dcf"
+                  }
+                ]
               },
               {
                 "id": "project-2-14",
                 "index": 14,
-                "thumbnail": "./models/JFC HC系列油缸/MGHC2-A-70-SD-C-32-150-Tx1-1-0-A(0).bmp",
+                "thumbnail": "./models/3D/JFC HC系列油缸/MGHC2-A-70-SD-C-32-150-Tx1-1-0-A(0).bmp",
                 "lina": "MGHC2-A-70-SD-C-32-150-Tx1-1-0-A(0)",
                 "model": "HC",
                 "installation": "SD:基本型",
-                "bore": 70,
-                "stroke": "-",
-                "previewUrl": "/models/JFC%20HC%E7%B3%BB%E5%88%97%E6%B2%B9%E7%BC%B8/MGHC2-A-70-SD-C-32-150-Tx1-1-0-A(0).scs&exchangeType=scs",
-                "modelUrl": "/models/JFC%20HC%E7%B3%BB%E5%88%97%E6%B2%B9%E7%BC%B8/MGHC2-A-70-SD-C-32-150-Tx1-1-0-A(0).prt"
+                "bore": 32,
+                "stroke": 150,
+                "previewUrl": "models/3D/JFC%20HC%E7%B3%BB%E5%88%97%E6%B2%B9%E7%BC%B8/MGHC2-A-70-SD-C-32-150-Tx1-1-0-A(0).scs",
+                "modelUrl": "models/3D/JFC%20HC%E7%B3%BB%E5%88%97%E6%B2%B9%E7%BC%B8/MGHC2-A-70-SD-C-32-150-Tx1-1-0-A(0).prt",
+                "dwgFiles": [
+                  {
+                    "name": "MGHC2-A-70-SD-C-32-150-Tx1-1-0-A(0)_front",
+                    "dwg": "models/2D/JFC%20HC%E7%B3%BB%E5%88%97%E6%B2%B9%E7%BC%B8/MGHC2-A-70-SD-C-32-150-Tx1-1-0-A(0)_front.dwg",
+                    "dcf": "models/2D/JFC%20HC%E7%B3%BB%E5%88%97%E6%B2%B9%E7%BC%B8/MGHC2-A-70-SD-C-32-150-Tx1-1-0-A(0)_front.dcf"
+                  }
+                ]
               },
               {
                 "id": "project-2-15",
                 "index": 15,
-                "thumbnail": "./models/JFC HC系列油缸/MGHC2-A-70-SD-C-32-50-Tx1-1-0-A(0).bmp",
+                "thumbnail": "./models/3D/JFC HC系列油缸/MGHC2-A-70-SD-C-32-50-Tx1-1-0-A(0).bmp",
                 "lina": "MGHC2-A-70-SD-C-32-50-Tx1-1-0-A(0)",
                 "model": "HC",
                 "installation": "SD:基本型",
-                "bore": 70,
-                "stroke": "-",
-                "previewUrl": "/models/JFC%20HC%E7%B3%BB%E5%88%97%E6%B2%B9%E7%BC%B8/MGHC2-A-70-SD-C-32-50-Tx1-1-0-A(0).scs&exchangeType=scs",
-                "modelUrl": "/models/JFC%20HC%E7%B3%BB%E5%88%97%E6%B2%B9%E7%BC%B8/MGHC2-A-70-SD-C-32-50-Tx1-1-0-A(0).prt"
+                "bore": 32,
+                "stroke": 50,
+                "previewUrl": "models/3D/JFC%20HC%E7%B3%BB%E5%88%97%E6%B2%B9%E7%BC%B8/MGHC2-A-70-SD-C-32-50-Tx1-1-0-A(0).scs",
+                "modelUrl": "models/3D/JFC%20HC%E7%B3%BB%E5%88%97%E6%B2%B9%E7%BC%B8/MGHC2-A-70-SD-C-32-50-Tx1-1-0-A(0).prt",
+                "dwgFiles": [
+                  {
+                    "name": "MGHC2-A-70-SD-C-32-50-Tx1-1-0-A(0)_front",
+                    "dwg": "models/2D/JFC%20HC%E7%B3%BB%E5%88%97%E6%B2%B9%E7%BC%B8/MGHC2-A-70-SD-C-32-50-Tx1-1-0-A(0)_front.dwg",
+                    "dcf": "models/2D/JFC%20HC%E7%B3%BB%E5%88%97%E6%B2%B9%E7%BC%B8/MGHC2-A-70-SD-C-32-50-Tx1-1-0-A(0)_front.dcf"
+                  }
+                ]
               }
             ]
           },
           {
             "id": "project-3",
-            "title": "JFC JEAL系列油缸",
+            "title": "JFC HEG系列油缸",
             "type": "project",
-            "thumbnail": "./models/JFC JEAL系列油缸.bmp",
-            "updateDate": "2026/04/17",
+            "thumbnail": "./models/3D/JFC HEG系列油缸/HEG250-A-M00-C-50-100-RC.bmp",
+            "updateDate": "2026/04/21",
             "columns": [
               {
                 "key": "select",
@@ -657,47 +853,80 @@
               {
                 "id": "project-3-1",
                 "index": 1,
-                "thumbnail": "./models/JFC JEAL系列油缸/JEAL-S-H-32-20ST-EX_0_.bmp",
-                "lina": "JEAL-S-H-32-20ST-EX_0_",
-                "model": "JEAL",
-                "installation": "SD:基本型",
-                "bore": 32,
-                "stroke": "-",
-                "previewUrl": "/models/JFC%20JEAL%E7%B3%BB%E5%88%97%E6%B2%B9%E7%BC%B8/JEAL-S-H-32-20ST-EX_0_.scs&exchangeType=scs",
-                "modelUrl": "/models/JFC%20JEAL%E7%B3%BB%E5%88%97%E6%B2%B9%E7%BC%B8/JEAL-S-H-32-20ST-EX_0_.prt"
+                "thumbnail": "./models/3D/JFC HEG系列油缸/HEG250-A-M00-C-50-100-RC.bmp",
+                "lina": "HEG250-A-M00-C-50-100-RC",
+                "model": "HEG",
+                "installation": "-",
+                "bore": 50,
+                "stroke": 100,
+                "previewUrl": "models/3D/JFC%20HEG%E7%B3%BB%E5%88%97%E6%B2%B9%E7%BC%B8/HEG250-A-M00-C-50-100-RC.scs",
+                "modelUrl": "models/3D/JFC%20HEG%E7%B3%BB%E5%88%97%E6%B2%B9%E7%BC%B8/HEG250-A-M00-C-50-100-RC.prt",
+                "dwgFiles": [
+                  {
+                    "name": "HEG250-A-M00-C-50-100-RC_front",
+                    "dwg": "models/2D/JFC%20HEG%E7%B3%BB%E5%88%97%E6%B2%B9%E7%BC%B8/HEG250-A-M00-C-50-100-RC_front.dwg",
+                    "dcf": "models/2D/JFC%20HEG%E7%B3%BB%E5%88%97%E6%B2%B9%E7%BC%B8/HEG250-A-M00-C-50-100-RC_front.dcf"
+                  }
+                ]
               },
               {
                 "id": "project-3-2",
                 "index": 2,
-                "thumbnail": "./models/JFC JEAL系列油缸/JEAL-S-H-32-40ST-EX_0_.bmp",
-                "lina": "JEAL-S-H-32-40ST-EX_0_",
-                "model": "JEAL",
-                "installation": "SD:基本型",
-                "bore": 32,
-                "stroke": "-",
-                "previewUrl": "/models/JFC%20JEAL%E7%B3%BB%E5%88%97%E6%B2%B9%E7%BC%B8/JEAL-S-H-32-40ST-EX_0_.scs&exchangeType=scs",
-                "modelUrl": "/models/JFC%20JEAL%E7%B3%BB%E5%88%97%E6%B2%B9%E7%BC%B8/JEAL-S-H-32-40ST-EX_0_.prt"
+                "thumbnail": "./image/3.png",
+                "lina": "HEG250-A-M00-C-50-100-RC1",
+                "model": "HEG",
+                "installation": "-",
+                "bore": 50,
+                "stroke": 100,
+                "previewUrl": "models/3D/JFC%20HEG%E7%B3%BB%E5%88%97%E6%B2%B9%E7%BC%B8/HEG250-A-M00-C-50-100-RC1.scs",
+                "modelUrl": "models/3D/JFC%20HEG%E7%B3%BB%E5%88%97%E6%B2%B9%E7%BC%B8/HEG250-A-M00-C-50-100-RC1.prt"
               },
               {
                 "id": "project-3-3",
                 "index": 3,
-                "thumbnail": "./models/JFC JEAL系列油缸/JEAL-S-H-32-60ST-EX_0_.bmp",
-                "lina": "JEAL-S-H-32-60ST-EX_0_",
-                "model": "JEAL",
-                "installation": "SD:基本型",
-                "bore": 32,
-                "stroke": "-",
-                "previewUrl": "/models/JFC%20JEAL%E7%B3%BB%E5%88%97%E6%B2%B9%E7%BC%B8/JEAL-S-H-32-60ST-EX_0_.scs&exchangeType=scs",
-                "modelUrl": "/models/JFC%20JEAL%E7%B3%BB%E5%88%97%E6%B2%B9%E7%BC%B8/JEAL-S-H-32-60ST-EX_0_.prt"
+                "thumbnail": "./models/3D/JFC HEG系列油缸/HEG250-A-M00-C-50-150-RC.bmp",
+                "lina": "HEG250-A-M00-C-50-150-RC",
+                "model": "HEG",
+                "installation": "-",
+                "bore": 50,
+                "stroke": 150,
+                "previewUrl": "models/3D/JFC%20HEG%E7%B3%BB%E5%88%97%E6%B2%B9%E7%BC%B8/HEG250-A-M00-C-50-150-RC.scs",
+                "modelUrl": "models/3D/JFC%20HEG%E7%B3%BB%E5%88%97%E6%B2%B9%E7%BC%B8/HEG250-A-M00-C-50-150-RC.prt",
+                "dwgFiles": [
+                  {
+                    "name": "HEG250-A-M00-C-50-150-RC_front",
+                    "dwg": "models/2D/JFC%20HEG%E7%B3%BB%E5%88%97%E6%B2%B9%E7%BC%B8/HEG250-A-M00-C-50-150-RC_front.dwg",
+                    "dcf": "models/2D/JFC%20HEG%E7%B3%BB%E5%88%97%E6%B2%B9%E7%BC%B8/HEG250-A-M00-C-50-150-RC_front.dcf"
+                  }
+                ]
+              },
+              {
+                "id": "project-3-4",
+                "index": 4,
+                "thumbnail": "./models/3D/JFC HEG系列油缸/HEG250-A-M00-C-50-50-RC.bmp",
+                "lina": "HEG250-A-M00-C-50-50-RC",
+                "model": "HEG",
+                "installation": "-",
+                "bore": 50,
+                "stroke": 50,
+                "previewUrl": "models/3D/JFC%20HEG%E7%B3%BB%E5%88%97%E6%B2%B9%E7%BC%B8/HEG250-A-M00-C-50-50-RC.scs",
+                "modelUrl": "models/3D/JFC%20HEG%E7%B3%BB%E5%88%97%E6%B2%B9%E7%BC%B8/HEG250-A-M00-C-50-50-RC.prt",
+                "dwgFiles": [
+                  {
+                    "name": "HEG250-A-M00-C-50-50-RC_front",
+                    "dwg": "models/2D/JFC%20HEG%E7%B3%BB%E5%88%97%E6%B2%B9%E7%BC%B8/HEG250-A-M00-C-50-50-RC_front.dwg",
+                    "dcf": "models/2D/JFC%20HEG%E7%B3%BB%E5%88%97%E6%B2%B9%E7%BC%B8/HEG250-A-M00-C-50-50-RC_front.dcf"
+                  }
+                ]
               }
             ]
           },
           {
             "id": "project-4",
-            "title": "JFC JECX系列油缸",
+            "title": "JFC JEAL系列油缸",
             "type": "project",
-            "thumbnail": "./models/JFC JECX系列油缸.bmp",
-            "updateDate": "2026/04/17",
+            "thumbnail": "./models/3D/JFC JEAL系列油缸/JEAL-S-H-32-20ST-EX_0_.bmp",
+            "updateDate": "2026/04/21",
             "columns": [
               {
                 "key": "select",
@@ -756,47 +985,47 @@
               {
                 "id": "project-4-1",
                 "index": 1,
-                "thumbnail": "./models/JFC JECX系列油缸/JECX-MF-160-INLA-32-100_0_.bmp",
-                "lina": "JECX-MF-160-INLA-32-100_0_",
-                "model": "JECX",
-                "installation": "SD:基本型",
-                "bore": 160,
-                "stroke": 100,
-                "previewUrl": "/models/JFC%20JECX%E7%B3%BB%E5%88%97%E6%B2%B9%E7%BC%B8/JECX-MF-160-INLA-32-100_0_.scs&exchangeType=scs",
-                "modelUrl": "/models/JFC%20JECX%E7%B3%BB%E5%88%97%E6%B2%B9%E7%BC%B8/JECX-MF-160-INLA-32-100_0_.prt"
+                "thumbnail": "./models/3D/JFC JEAL系列油缸/JEAL-S-H-32-20ST-EX_0_.bmp",
+                "lina": "JEAL-S-H-32-20ST-EX_0_",
+                "model": "JEAL",
+                "installation": "-",
+                "bore": 32,
+                "stroke": 20,
+                "previewUrl": "models/3D/JFC%20JEAL%E7%B3%BB%E5%88%97%E6%B2%B9%E7%BC%B8/JEAL-S-H-32-20ST-EX_0_.scs",
+                "modelUrl": "models/3D/JFC%20JEAL%E7%B3%BB%E5%88%97%E6%B2%B9%E7%BC%B8/JEAL-S-H-32-20ST-EX_0_.prt"
               },
               {
                 "id": "project-4-2",
                 "index": 2,
-                "thumbnail": "./models/JFC JECX系列油缸/JECX-MF-160-INLA-32-150_0_.bmp",
-                "lina": "JECX-MF-160-INLA-32-150_0_",
-                "model": "JECX",
-                "installation": "SD:基本型",
-                "bore": 160,
-                "stroke": 150,
-                "previewUrl": "/models/JFC%20JECX%E7%B3%BB%E5%88%97%E6%B2%B9%E7%BC%B8/JECX-MF-160-INLA-32-150_0_.scs&exchangeType=scs",
-                "modelUrl": "/models/JFC%20JECX%E7%B3%BB%E5%88%97%E6%B2%B9%E7%BC%B8/JECX-MF-160-INLA-32-150_0_.prt"
+                "thumbnail": "./models/3D/JFC JEAL系列油缸/JEAL-S-H-32-40ST-EX_0_.bmp",
+                "lina": "JEAL-S-H-32-40ST-EX_0_",
+                "model": "JEAL",
+                "installation": "-",
+                "bore": 32,
+                "stroke": 40,
+                "previewUrl": "models/3D/JFC%20JEAL%E7%B3%BB%E5%88%97%E6%B2%B9%E7%BC%B8/JEAL-S-H-32-40ST-EX_0_.scs",
+                "modelUrl": "models/3D/JFC%20JEAL%E7%B3%BB%E5%88%97%E6%B2%B9%E7%BC%B8/JEAL-S-H-32-40ST-EX_0_.prt"
               },
               {
                 "id": "project-4-3",
                 "index": 3,
-                "thumbnail": "./models/JFC JECX系列油缸/JECX-MF-160-INLA-32-50_0_.bmp",
-                "lina": "JECX-MF-160-INLA-32-50_0_",
-                "model": "JECX",
-                "installation": "SD:基本型",
-                "bore": 160,
-                "stroke": 50,
-                "previewUrl": "/models/JFC%20JECX%E7%B3%BB%E5%88%97%E6%B2%B9%E7%BC%B8/JECX-MF-160-INLA-32-50_0_.scs&exchangeType=scs",
-                "modelUrl": "/models/JFC%20JECX%E7%B3%BB%E5%88%97%E6%B2%B9%E7%BC%B8/JECX-MF-160-INLA-32-50_0_.prt"
+                "thumbnail": "./models/3D/JFC JEAL系列油缸/JEAL-S-H-32-60ST-EX_0_.bmp",
+                "lina": "JEAL-S-H-32-60ST-EX_0_",
+                "model": "JEAL",
+                "installation": "-",
+                "bore": 32,
+                "stroke": 60,
+                "previewUrl": "models/3D/JFC%20JEAL%E7%B3%BB%E5%88%97%E6%B2%B9%E7%BC%B8/JEAL-S-H-32-60ST-EX_0_.scs",
+                "modelUrl": "models/3D/JFC%20JEAL%E7%B3%BB%E5%88%97%E6%B2%B9%E7%BC%B8/JEAL-S-H-32-60ST-EX_0_.prt"
               }
             ]
           },
           {
             "id": "project-5",
-            "title": "JFC JEXP系列油缸",
+            "title": "JFC JEBC系列油缸",
             "type": "project",
-            "thumbnail": "./models/JFC JEXP系列油缸.bmp",
-            "updateDate": "2026/04/17",
+            "thumbnail": "./models/3D/JFC JEBC系列油缸/JEBC-MF-LA-32-100ST-EX_0_stp.bmp",
+            "updateDate": "2026/04/21",
             "columns": [
               {
                 "key": "select",
@@ -855,47 +1084,47 @@
               {
                 "id": "project-5-1",
                 "index": 1,
-                "thumbnail": "./models/JFC JEXP系列油缸/JEXP-FC-H-32-100ST-EX__0_.bmp",
-                "lina": "JEXP-FC-H-32-100ST-EX__0_",
-                "model": "JEXP",
-                "installation": "SD:基本型",
+                "thumbnail": "./models/3D/JFC JEBC系列油缸/JEBC-MF-LA-32-100ST-EX_0_stp.bmp",
+                "lina": "JEBC-MF-LA-32-100ST-EX_0_stp",
+                "model": "JEBC",
+                "installation": "LA:拉杆型",
                 "bore": 32,
-                "stroke": "-",
-                "previewUrl": "/models/JFC%20JEXP%E7%B3%BB%E5%88%97%E6%B2%B9%E7%BC%B8/JEXP-FC-H-32-100ST-EX__0_.scs&exchangeType=scs",
-                "modelUrl": "/models/JFC%20JEXP%E7%B3%BB%E5%88%97%E6%B2%B9%E7%BC%B8/JEXP-FC-H-32-100ST-EX__0_.prt"
+                "stroke": 100,
+                "previewUrl": "models/3D/JFC%20JEBC%E7%B3%BB%E5%88%97%E6%B2%B9%E7%BC%B8/JEBC-MF-LA-32-100ST-EX_0_stp.scs",
+                "modelUrl": "models/3D/JFC%20JEBC%E7%B3%BB%E5%88%97%E6%B2%B9%E7%BC%B8/JEBC-MF-LA-32-100ST-EX_0_stp.prt"
               },
               {
                 "id": "project-5-2",
                 "index": 2,
-                "thumbnail": "./models/JFC JEXP系列油缸/JEXP-FC-H-32-150ST-EX__0_.bmp",
-                "lina": "JEXP-FC-H-32-150ST-EX__0_",
-                "model": "JEXP",
-                "installation": "SD:基本型",
+                "thumbnail": "./models/3D/JFC JEBC系列油缸/JEBC-MF-LA-32-150ST-EX_0_stp.bmp",
+                "lina": "JEBC-MF-LA-32-150ST-EX_0_stp",
+                "model": "JEBC",
+                "installation": "LA:拉杆型",
                 "bore": 32,
-                "stroke": "-",
-                "previewUrl": "/models/JFC%20JEXP%E7%B3%BB%E5%88%97%E6%B2%B9%E7%BC%B8/JEXP-FC-H-32-150ST-EX__0_.scs&exchangeType=scs",
-                "modelUrl": "/models/JFC%20JEXP%E7%B3%BB%E5%88%97%E6%B2%B9%E7%BC%B8/JEXP-FC-H-32-150ST-EX__0_.prt"
+                "stroke": 150,
+                "previewUrl": "models/3D/JFC%20JEBC%E7%B3%BB%E5%88%97%E6%B2%B9%E7%BC%B8/JEBC-MF-LA-32-150ST-EX_0_stp.scs",
+                "modelUrl": "models/3D/JFC%20JEBC%E7%B3%BB%E5%88%97%E6%B2%B9%E7%BC%B8/JEBC-MF-LA-32-150ST-EX_0_stp.prt"
               },
               {
                 "id": "project-5-3",
                 "index": 3,
-                "thumbnail": "./models/JFC JEXP系列油缸/JEXP-FC-H-32-50ST-EX__0_.bmp",
-                "lina": "JEXP-FC-H-32-50ST-EX__0_",
-                "model": "JEXP",
-                "installation": "SD:基本型",
+                "thumbnail": "./models/3D/JFC JEBC系列油缸/JEBC-MF-LA-32-50ST-EX_0_stp.bmp",
+                "lina": "JEBC-MF-LA-32-50ST-EX_0_stp",
+                "model": "JEBC",
+                "installation": "LA:拉杆型",
                 "bore": 32,
-                "stroke": "-",
-                "previewUrl": "/models/JFC%20JEXP%E7%B3%BB%E5%88%97%E6%B2%B9%E7%BC%B8/JEXP-FC-H-32-50ST-EX__0_.scs&exchangeType=scs",
-                "modelUrl": "/models/JFC%20JEXP%E7%B3%BB%E5%88%97%E6%B2%B9%E7%BC%B8/JEXP-FC-H-32-50ST-EX__0_.prt"
+                "stroke": 50,
+                "previewUrl": "models/3D/JFC%20JEBC%E7%B3%BB%E5%88%97%E6%B2%B9%E7%BC%B8/JEBC-MF-LA-32-50ST-EX_0_stp.scs",
+                "modelUrl": "models/3D/JFC%20JEBC%E7%B3%BB%E5%88%97%E6%B2%B9%E7%BC%B8/JEBC-MF-LA-32-50ST-EX_0_stp.prt"
               }
             ]
           },
           {
             "id": "project-6",
-            "title": "JFC NOS系列油缸",
+            "title": "JFC JEBL系列油缸",
             "type": "project",
-            "thumbnail": "./models/JFC NOS系列油缸.bmp",
-            "updateDate": "2026/04/17",
+            "thumbnail": "./models/3D/JFC JEBL系列油缸/JEBL-M1-EX-32-100S_0_stp.bmp",
+            "updateDate": "2026/04/21",
             "columns": [
               {
                 "key": "select",
@@ -954,26 +1183,1660 @@
               {
                 "id": "project-6-1",
                 "index": 1,
-                "thumbnail": "./models/JFC NOS系列油缸/NOS2-SD-S-R-32x9015(0).bmp",
-                "lina": "NOS2-SD-S-R-32x9015(0)",
-                "model": "NOS",
-                "installation": "SD:基本型",
-                "bore": "-",
-                "stroke": "-",
-                "previewUrl": "/models/JFC%20NOS%E7%B3%BB%E5%88%97%E6%B2%B9%E7%BC%B8/NOS2-SD-S-R-32x9015(0).scs&exchangeType=scs",
-                "modelUrl": "/models/JFC%20NOS%E7%B3%BB%E5%88%97%E6%B2%B9%E7%BC%B8/NOS2-SD-S-R-32x9015(0).prt"
+                "thumbnail": "./models/3D/JFC JEBL系列油缸/JEBL-M1-EX-32-100S_0_stp.bmp",
+                "lina": "JEBL-M1-EX-32-100S_0_stp",
+                "model": "JEBL",
+                "installation": "-",
+                "bore": 32,
+                "stroke": 100,
+                "previewUrl": "models/3D/JFC%20JEBL%E7%B3%BB%E5%88%97%E6%B2%B9%E7%BC%B8/JEBL-M1-EX-32-100S_0_stp.scs",
+                "modelUrl": "models/3D/JFC%20JEBL%E7%B3%BB%E5%88%97%E6%B2%B9%E7%BC%B8/JEBL-M1-EX-32-100S_0_stp.prt"
               },
               {
                 "id": "project-6-2",
                 "index": 2,
-                "thumbnail": "./models/JFC NOS系列油缸/OS4-SD-32 25(0).bmp",
+                "thumbnail": "./models/3D/JFC JEBL系列油缸/JEBL-M1-EX-32-150S_0_stp.bmp",
+                "lina": "JEBL-M1-EX-32-150S_0_stp",
+                "model": "JEBL",
+                "installation": "-",
+                "bore": 32,
+                "stroke": 150,
+                "previewUrl": "models/3D/JFC%20JEBL%E7%B3%BB%E5%88%97%E6%B2%B9%E7%BC%B8/JEBL-M1-EX-32-150S_0_stp.scs",
+                "modelUrl": "models/3D/JFC%20JEBL%E7%B3%BB%E5%88%97%E6%B2%B9%E7%BC%B8/JEBL-M1-EX-32-150S_0_stp.prt"
+              },
+              {
+                "id": "project-6-3",
+                "index": 3,
+                "thumbnail": "./models/3D/JFC JEBL系列油缸/JEBL-M1-EX-32-50S_0_stp.bmp",
+                "lina": "JEBL-M1-EX-32-50S_0_stp",
+                "model": "JEBL",
+                "installation": "-",
+                "bore": 32,
+                "stroke": 50,
+                "previewUrl": "models/3D/JFC%20JEBL%E7%B3%BB%E5%88%97%E6%B2%B9%E7%BC%B8/JEBL-M1-EX-32-50S_0_stp.scs",
+                "modelUrl": "models/3D/JFC%20JEBL%E7%B3%BB%E5%88%97%E6%B2%B9%E7%BC%B8/JEBL-M1-EX-32-50S_0_stp.prt"
+              }
+            ]
+          },
+          {
+            "id": "project-7",
+            "title": "JFC JECN系列油缸",
+            "type": "project",
+            "thumbnail": "./models/3D/JFC JECN系列油缸/JECN-M20-EX-32-100ST(0).bmp",
+            "updateDate": "2026/04/21",
+            "columns": [
+              {
+                "key": "select",
+                "title": "",
+                "dataIndex": "select",
+                "width": 50,
+                "align": "center"
+              },
+              {
+                "key": "index",
+                "title": "",
+                "dataIndex": "index",
+                "width": 50,
+                "align": "center"
+              },
+              {
+                "key": "thumbnail",
+                "title": "",
+                "dataIndex": "thumbnail",
+                "width": 100
+              },
+              {
+                "key": "lina",
+                "title": "LINA明细表",
+                "dataIndex": "lina",
+                "width": 200
+              },
+              {
+                "key": "model",
+                "title": "MODEL 型号",
+                "dataIndex": "model",
+                "width": 150
+              },
+              {
+                "key": "installation",
+                "title": "INSTALLATION 安装方式",
+                "dataIndex": "installation",
+                "width": 150
+              },
+              {
+                "key": "bore",
+                "title": "BORE 内径",
+                "dataIndex": "bore",
+                "width": 100,
+                "align": "center"
+              },
+              {
+                "key": "stroke",
+                "title": "STROKE 行程",
+                "dataIndex": "stroke",
+                "width": 100,
+                "align": "center"
+              }
+            ],
+            "models": [
+              {
+                "id": "project-7-1",
+                "index": 1,
+                "thumbnail": "./models/3D/JFC JECN系列油缸/JECN-M20-EX-32-100ST(0).bmp",
+                "lina": "JECN-M20-EX-32-100ST(0)",
+                "model": "JECN",
+                "installation": "-",
+                "bore": 32,
+                "stroke": 100,
+                "previewUrl": "models/3D/JFC%20JECN%E7%B3%BB%E5%88%97%E6%B2%B9%E7%BC%B8/JECN-M20-EX-32-100ST(0).scs",
+                "modelUrl": "models/3D/JFC%20JECN%E7%B3%BB%E5%88%97%E6%B2%B9%E7%BC%B8/JECN-M20-EX-32-100ST(0).prt",
+                "dwgFiles": [
+                  {
+                    "name": "JECN-M20-EX-32-100ST(0)_front",
+                    "dwg": "models/2D/JFC%20JECN%E7%B3%BB%E5%88%97%E6%B2%B9%E7%BC%B8/JECN-M20-EX-32-100ST(0)_front.dwg",
+                    "dcf": "models/2D/JFC%20JECN%E7%B3%BB%E5%88%97%E6%B2%B9%E7%BC%B8/JECN-M20-EX-32-100ST(0)_front.dcf"
+                  }
+                ]
+              },
+              {
+                "id": "project-7-2",
+                "index": 2,
+                "thumbnail": "./models/3D/JFC JECN系列油缸/JECN-M20-EX-32-150ST(0).bmp",
+                "lina": "JECN-M20-EX-32-150ST(0)",
+                "model": "JECN",
+                "installation": "-",
+                "bore": 32,
+                "stroke": 150,
+                "previewUrl": "models/3D/JFC%20JECN%E7%B3%BB%E5%88%97%E6%B2%B9%E7%BC%B8/JECN-M20-EX-32-150ST(0).scs",
+                "modelUrl": "models/3D/JFC%20JECN%E7%B3%BB%E5%88%97%E6%B2%B9%E7%BC%B8/JECN-M20-EX-32-150ST(0).prt",
+                "dwgFiles": [
+                  {
+                    "name": "JECN-M20-EX-32-150ST(0)_front",
+                    "dwg": "models/2D/JFC%20JECN%E7%B3%BB%E5%88%97%E6%B2%B9%E7%BC%B8/JECN-M20-EX-32-150ST(0)_front.dwg",
+                    "dcf": "models/2D/JFC%20JECN%E7%B3%BB%E5%88%97%E6%B2%B9%E7%BC%B8/JECN-M20-EX-32-150ST(0)_front.dcf"
+                  }
+                ]
+              },
+              {
+                "id": "project-7-3",
+                "index": 3,
+                "thumbnail": "./models/3D/JFC JECN系列油缸/JECN-M20-EX-32-50ST(0).bmp",
+                "lina": "JECN-M20-EX-32-50ST(0)",
+                "model": "JECN",
+                "installation": "-",
+                "bore": 32,
+                "stroke": 50,
+                "previewUrl": "models/3D/JFC%20JECN%E7%B3%BB%E5%88%97%E6%B2%B9%E7%BC%B8/JECN-M20-EX-32-50ST(0).scs",
+                "modelUrl": "models/3D/JFC%20JECN%E7%B3%BB%E5%88%97%E6%B2%B9%E7%BC%B8/JECN-M20-EX-32-50ST(0).prt",
+                "dwgFiles": [
+                  {
+                    "name": "JECN-M20-EX-32-50ST(0)_front",
+                    "dwg": "models/2D/JFC%20JECN%E7%B3%BB%E5%88%97%E6%B2%B9%E7%BC%B8/JECN-M20-EX-32-50ST(0)_front.dwg",
+                    "dcf": "models/2D/JFC%20JECN%E7%B3%BB%E5%88%97%E6%B2%B9%E7%BC%B8/JECN-M20-EX-32-50ST(0)_front.dcf"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "project-8",
+            "title": "JFC JECR系列油缸",
+            "type": "project",
+            "thumbnail": "./models/3D/JFC JECR系列油缸/JECR-MF-LA-32-100ST-EX_0_stp.bmp",
+            "updateDate": "2026/04/21",
+            "columns": [
+              {
+                "key": "select",
+                "title": "",
+                "dataIndex": "select",
+                "width": 50,
+                "align": "center"
+              },
+              {
+                "key": "index",
+                "title": "",
+                "dataIndex": "index",
+                "width": 50,
+                "align": "center"
+              },
+              {
+                "key": "thumbnail",
+                "title": "",
+                "dataIndex": "thumbnail",
+                "width": 100
+              },
+              {
+                "key": "lina",
+                "title": "LINA明细表",
+                "dataIndex": "lina",
+                "width": 200
+              },
+              {
+                "key": "model",
+                "title": "MODEL 型号",
+                "dataIndex": "model",
+                "width": 150
+              },
+              {
+                "key": "installation",
+                "title": "INSTALLATION 安装方式",
+                "dataIndex": "installation",
+                "width": 150
+              },
+              {
+                "key": "bore",
+                "title": "BORE 内径",
+                "dataIndex": "bore",
+                "width": 100,
+                "align": "center"
+              },
+              {
+                "key": "stroke",
+                "title": "STROKE 行程",
+                "dataIndex": "stroke",
+                "width": 100,
+                "align": "center"
+              }
+            ],
+            "models": [
+              {
+                "id": "project-8-1",
+                "index": 1,
+                "thumbnail": "./models/3D/JFC JECR系列油缸/JECR-MF-LA-32-100ST-EX_0_stp.bmp",
+                "lina": "JECR-MF-LA-32-100ST-EX_0_stp",
+                "model": "JECR",
+                "installation": "LA:拉杆型",
+                "bore": 32,
+                "stroke": 100,
+                "previewUrl": "models/3D/JFC%20JECR%E7%B3%BB%E5%88%97%E6%B2%B9%E7%BC%B8/JECR-MF-LA-32-100ST-EX_0_stp.scs",
+                "modelUrl": "models/3D/JFC%20JECR%E7%B3%BB%E5%88%97%E6%B2%B9%E7%BC%B8/JECR-MF-LA-32-100ST-EX_0_stp.prt"
+              },
+              {
+                "id": "project-8-2",
+                "index": 2,
+                "thumbnail": "./models/3D/JFC JECR系列油缸/JECR-MF-LA-32-150ST-EX_0_stp.bmp",
+                "lina": "JECR-MF-LA-32-150ST-EX_0_stp",
+                "model": "JECR",
+                "installation": "LA:拉杆型",
+                "bore": 32,
+                "stroke": 150,
+                "previewUrl": "models/3D/JFC%20JECR%E7%B3%BB%E5%88%97%E6%B2%B9%E7%BC%B8/JECR-MF-LA-32-150ST-EX_0_stp.scs",
+                "modelUrl": "models/3D/JFC%20JECR%E7%B3%BB%E5%88%97%E6%B2%B9%E7%BC%B8/JECR-MF-LA-32-150ST-EX_0_stp.prt"
+              },
+              {
+                "id": "project-8-3",
+                "index": 3,
+                "thumbnail": "./models/3D/JFC JECR系列油缸/JECR-MF-LA-32-50ST-EX_0_stp.bmp",
+                "lina": "JECR-MF-LA-32-50ST-EX_0_stp",
+                "model": "JECR",
+                "installation": "LA:拉杆型",
+                "bore": 32,
+                "stroke": 50,
+                "previewUrl": "models/3D/JFC%20JECR%E7%B3%BB%E5%88%97%E6%B2%B9%E7%BC%B8/JECR-MF-LA-32-50ST-EX_0_stp.scs",
+                "modelUrl": "models/3D/JFC%20JECR%E7%B3%BB%E5%88%97%E6%B2%B9%E7%BC%B8/JECR-MF-LA-32-50ST-EX_0_stp.prt"
+              }
+            ]
+          },
+          {
+            "id": "project-9",
+            "title": "JFC JECX系列油缸",
+            "type": "project",
+            "thumbnail": "./models/3D/JFC JECX系列油缸/JECX-MF-160-INLA-32-100_0_.bmp",
+            "updateDate": "2026/04/21",
+            "columns": [
+              {
+                "key": "select",
+                "title": "",
+                "dataIndex": "select",
+                "width": 50,
+                "align": "center"
+              },
+              {
+                "key": "index",
+                "title": "",
+                "dataIndex": "index",
+                "width": 50,
+                "align": "center"
+              },
+              {
+                "key": "thumbnail",
+                "title": "",
+                "dataIndex": "thumbnail",
+                "width": 100
+              },
+              {
+                "key": "lina",
+                "title": "LINA明细表",
+                "dataIndex": "lina",
+                "width": 200
+              },
+              {
+                "key": "model",
+                "title": "MODEL 型号",
+                "dataIndex": "model",
+                "width": 150
+              },
+              {
+                "key": "installation",
+                "title": "INSTALLATION 安装方式",
+                "dataIndex": "installation",
+                "width": 150
+              },
+              {
+                "key": "bore",
+                "title": "BORE 内径",
+                "dataIndex": "bore",
+                "width": 100,
+                "align": "center"
+              },
+              {
+                "key": "stroke",
+                "title": "STROKE 行程",
+                "dataIndex": "stroke",
+                "width": 100,
+                "align": "center"
+              }
+            ],
+            "models": [
+              {
+                "id": "project-9-1",
+                "index": 1,
+                "thumbnail": "./models/3D/JFC JECX系列油缸/JECX-MF-160-INLA-32-100_0_.bmp",
+                "lina": "JECX-MF-160-INLA-32-100_0_",
+                "model": "JECX",
+                "installation": "INLA:内置拉杆型",
+                "bore": 32,
+                "stroke": 100,
+                "previewUrl": "models/3D/JFC%20JECX%E7%B3%BB%E5%88%97%E6%B2%B9%E7%BC%B8/JECX-MF-160-INLA-32-100_0_.scs",
+                "modelUrl": "models/3D/JFC%20JECX%E7%B3%BB%E5%88%97%E6%B2%B9%E7%BC%B8/JECX-MF-160-INLA-32-100_0_.prt"
+              },
+              {
+                "id": "project-9-2",
+                "index": 2,
+                "thumbnail": "./models/3D/JFC JECX系列油缸/JECX-MF-160-INLA-32-150_0_.bmp",
+                "lina": "JECX-MF-160-INLA-32-150_0_",
+                "model": "JECX",
+                "installation": "INLA:内置拉杆型",
+                "bore": 32,
+                "stroke": 150,
+                "previewUrl": "models/3D/JFC%20JECX%E7%B3%BB%E5%88%97%E6%B2%B9%E7%BC%B8/JECX-MF-160-INLA-32-150_0_.scs",
+                "modelUrl": "models/3D/JFC%20JECX%E7%B3%BB%E5%88%97%E6%B2%B9%E7%BC%B8/JECX-MF-160-INLA-32-150_0_.prt"
+              },
+              {
+                "id": "project-9-3",
+                "index": 3,
+                "thumbnail": "./models/3D/JFC JECX系列油缸/JECX-MF-160-INLA-32-50_0_.bmp",
+                "lina": "JECX-MF-160-INLA-32-50_0_",
+                "model": "JECX",
+                "installation": "INLA:内置拉杆型",
+                "bore": 32,
+                "stroke": 50,
+                "previewUrl": "models/3D/JFC%20JECX%E7%B3%BB%E5%88%97%E6%B2%B9%E7%BC%B8/JECX-MF-160-INLA-32-50_0_.scs",
+                "modelUrl": "models/3D/JFC%20JECX%E7%B3%BB%E5%88%97%E6%B2%B9%E7%BC%B8/JECX-MF-160-INLA-32-50_0_.prt"
+              }
+            ]
+          },
+          {
+            "id": "project-10",
+            "title": "JFC JELS系列油缸",
+            "type": "project",
+            "thumbnail": "./models/3D/JFC JELS系列油缸/JELS-A-70-EX-LA-50-100--L1.bmp",
+            "updateDate": "2026/04/21",
+            "columns": [
+              {
+                "key": "select",
+                "title": "",
+                "dataIndex": "select",
+                "width": 50,
+                "align": "center"
+              },
+              {
+                "key": "index",
+                "title": "",
+                "dataIndex": "index",
+                "width": 50,
+                "align": "center"
+              },
+              {
+                "key": "thumbnail",
+                "title": "",
+                "dataIndex": "thumbnail",
+                "width": 100
+              },
+              {
+                "key": "lina",
+                "title": "LINA明细表",
+                "dataIndex": "lina",
+                "width": 200
+              },
+              {
+                "key": "model",
+                "title": "MODEL 型号",
+                "dataIndex": "model",
+                "width": 150
+              },
+              {
+                "key": "installation",
+                "title": "INSTALLATION 安装方式",
+                "dataIndex": "installation",
+                "width": 150
+              },
+              {
+                "key": "bore",
+                "title": "BORE 内径",
+                "dataIndex": "bore",
+                "width": 100,
+                "align": "center"
+              },
+              {
+                "key": "stroke",
+                "title": "STROKE 行程",
+                "dataIndex": "stroke",
+                "width": 100,
+                "align": "center"
+              }
+            ],
+            "models": [
+              {
+                "id": "project-10-1",
+                "index": 1,
+                "thumbnail": "./models/3D/JFC JELS系列油缸/JELS-A-70-EX-LA-50-100--L1.bmp",
+                "lina": "JELS-A-70-EX-LA-50-100--L1",
+                "model": "JELS",
+                "installation": "LA:拉杆型",
+                "bore": 50,
+                "stroke": 100,
+                "previewUrl": "models/3D/JFC%20JELS%E7%B3%BB%E5%88%97%E6%B2%B9%E7%BC%B8/JELS-A-70-EX-LA-50-100--L1.scs",
+                "modelUrl": "models/3D/JFC%20JELS%E7%B3%BB%E5%88%97%E6%B2%B9%E7%BC%B8/JELS-A-70-EX-LA-50-100--L1.prt",
+                "dwgFiles": [
+                  {
+                    "name": "JELS-A-70-EX-LA-50-100--L1_front",
+                    "dwg": "models/2D/JFC%20JELS%E7%B3%BB%E5%88%97%E6%B2%B9%E7%BC%B8/JELS-A-70-EX-LA-50-100--L1_front.dwg",
+                    "dcf": "models/2D/JFC%20JELS%E7%B3%BB%E5%88%97%E6%B2%B9%E7%BC%B8/JELS-A-70-EX-LA-50-100--L1_front.dcf"
+                  }
+                ]
+              },
+              {
+                "id": "project-10-2",
+                "index": 2,
+                "thumbnail": "./models/3D/JFC JELS系列油缸/JELS-A-70-EX-LA-50-150--L1.bmp",
+                "lina": "JELS-A-70-EX-LA-50-150--L1",
+                "model": "JELS",
+                "installation": "LA:拉杆型",
+                "bore": 50,
+                "stroke": 150,
+                "previewUrl": "models/3D/JFC%20JELS%E7%B3%BB%E5%88%97%E6%B2%B9%E7%BC%B8/JELS-A-70-EX-LA-50-150--L1.scs",
+                "modelUrl": "models/3D/JFC%20JELS%E7%B3%BB%E5%88%97%E6%B2%B9%E7%BC%B8/JELS-A-70-EX-LA-50-150--L1.prt",
+                "dwgFiles": [
+                  {
+                    "name": "JELS-A-70-EX-LA-50-150--L1_front",
+                    "dwg": "models/2D/JFC%20JELS%E7%B3%BB%E5%88%97%E6%B2%B9%E7%BC%B8/JELS-A-70-EX-LA-50-150--L1_front.dwg",
+                    "dcf": "models/2D/JFC%20JELS%E7%B3%BB%E5%88%97%E6%B2%B9%E7%BC%B8/JELS-A-70-EX-LA-50-150--L1_front.dcf"
+                  }
+                ]
+              },
+              {
+                "id": "project-10-3",
+                "index": 3,
+                "thumbnail": "./models/3D/JFC JELS系列油缸/JELS-A-70-EX-LA-50-50--L1.bmp",
+                "lina": "JELS-A-70-EX-LA-50-50--L1",
+                "model": "JELS",
+                "installation": "LA:拉杆型",
+                "bore": 50,
+                "stroke": 50,
+                "previewUrl": "models/3D/JFC%20JELS%E7%B3%BB%E5%88%97%E6%B2%B9%E7%BC%B8/JELS-A-70-EX-LA-50-50--L1.scs",
+                "modelUrl": "models/3D/JFC%20JELS%E7%B3%BB%E5%88%97%E6%B2%B9%E7%BC%B8/JELS-A-70-EX-LA-50-50--L1.prt",
+                "dwgFiles": [
+                  {
+                    "name": "JELS-A-70-EX-LA-50-50--L1_front",
+                    "dwg": "models/2D/JFC%20JELS%E7%B3%BB%E5%88%97%E6%B2%B9%E7%BC%B8/JELS-A-70-EX-LA-50-50--L1_front.dwg",
+                    "dcf": "models/2D/JFC%20JELS%E7%B3%BB%E5%88%97%E6%B2%B9%E7%BC%B8/JELS-A-70-EX-LA-50-50--L1_front.dcf"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "project-11",
+            "title": "JFC JEXP系列油缸",
+            "type": "project",
+            "thumbnail": "./models/3D/JFC JEXP系列油缸/JEXP-FC-H-32-100ST-EX__0_.bmp",
+            "updateDate": "2026/04/21",
+            "columns": [
+              {
+                "key": "select",
+                "title": "",
+                "dataIndex": "select",
+                "width": 50,
+                "align": "center"
+              },
+              {
+                "key": "index",
+                "title": "",
+                "dataIndex": "index",
+                "width": 50,
+                "align": "center"
+              },
+              {
+                "key": "thumbnail",
+                "title": "",
+                "dataIndex": "thumbnail",
+                "width": 100
+              },
+              {
+                "key": "lina",
+                "title": "LINA明细表",
+                "dataIndex": "lina",
+                "width": 200
+              },
+              {
+                "key": "model",
+                "title": "MODEL 型号",
+                "dataIndex": "model",
+                "width": 150
+              },
+              {
+                "key": "installation",
+                "title": "INSTALLATION 安装方式",
+                "dataIndex": "installation",
+                "width": 150
+              },
+              {
+                "key": "bore",
+                "title": "BORE 内径",
+                "dataIndex": "bore",
+                "width": 100,
+                "align": "center"
+              },
+              {
+                "key": "stroke",
+                "title": "STROKE 行程",
+                "dataIndex": "stroke",
+                "width": 100,
+                "align": "center"
+              }
+            ],
+            "models": [
+              {
+                "id": "project-11-1",
+                "index": 1,
+                "thumbnail": "./models/3D/JFC JEXP系列油缸/JEXP-FC-H-32-100ST-EX__0_.bmp",
+                "lina": "JEXP-FC-H-32-100ST-EX__0_",
+                "model": "JEXP",
+                "installation": "-",
+                "bore": 32,
+                "stroke": 100,
+                "previewUrl": "models/3D/JFC%20JEXP%E7%B3%BB%E5%88%97%E6%B2%B9%E7%BC%B8/JEXP-FC-H-32-100ST-EX__0_.scs",
+                "modelUrl": "models/3D/JFC%20JEXP%E7%B3%BB%E5%88%97%E6%B2%B9%E7%BC%B8/JEXP-FC-H-32-100ST-EX__0_.prt"
+              },
+              {
+                "id": "project-11-2",
+                "index": 2,
+                "thumbnail": "./models/3D/JFC JEXP系列油缸/JEXP-FC-H-32-150ST-EX__0_.bmp",
+                "lina": "JEXP-FC-H-32-150ST-EX__0_",
+                "model": "JEXP",
+                "installation": "-",
+                "bore": 32,
+                "stroke": 150,
+                "previewUrl": "models/3D/JFC%20JEXP%E7%B3%BB%E5%88%97%E6%B2%B9%E7%BC%B8/JEXP-FC-H-32-150ST-EX__0_.scs",
+                "modelUrl": "models/3D/JFC%20JEXP%E7%B3%BB%E5%88%97%E6%B2%B9%E7%BC%B8/JEXP-FC-H-32-150ST-EX__0_.prt"
+              },
+              {
+                "id": "project-11-3",
+                "index": 3,
+                "thumbnail": "./models/3D/JFC JEXP系列油缸/JEXP-FC-H-32-50ST-EX__0_.bmp",
+                "lina": "JEXP-FC-H-32-50ST-EX__0_",
+                "model": "JEXP",
+                "installation": "-",
+                "bore": 32,
+                "stroke": 50,
+                "previewUrl": "models/3D/JFC%20JEXP%E7%B3%BB%E5%88%97%E6%B2%B9%E7%BC%B8/JEXP-FC-H-32-50ST-EX__0_.scs",
+                "modelUrl": "models/3D/JFC%20JEXP%E7%B3%BB%E5%88%97%E6%B2%B9%E7%BC%B8/JEXP-FC-H-32-50ST-EX__0_.prt"
+              }
+            ]
+          },
+          {
+            "id": "project-12",
+            "title": "JFC JHB系列油缸",
+            "type": "project",
+            "thumbnail": "./models/3D/JFC JHB系列油缸/JHB-5x35.bmp",
+            "updateDate": "2026/04/21",
+            "columns": [
+              {
+                "key": "select",
+                "title": "",
+                "dataIndex": "select",
+                "width": 50,
+                "align": "center"
+              },
+              {
+                "key": "index",
+                "title": "",
+                "dataIndex": "index",
+                "width": 50,
+                "align": "center"
+              },
+              {
+                "key": "thumbnail",
+                "title": "",
+                "dataIndex": "thumbnail",
+                "width": 100
+              },
+              {
+                "key": "lina",
+                "title": "LINA明细表",
+                "dataIndex": "lina",
+                "width": 200
+              },
+              {
+                "key": "model",
+                "title": "MODEL 型号",
+                "dataIndex": "model",
+                "width": 150
+              },
+              {
+                "key": "installation",
+                "title": "INSTALLATION 安装方式",
+                "dataIndex": "installation",
+                "width": 150
+              },
+              {
+                "key": "bore",
+                "title": "BORE 内径",
+                "dataIndex": "bore",
+                "width": 100,
+                "align": "center"
+              },
+              {
+                "key": "stroke",
+                "title": "STROKE 行程",
+                "dataIndex": "stroke",
+                "width": 100,
+                "align": "center"
+              }
+            ],
+            "models": [
+              {
+                "id": "project-12-1",
+                "index": 1,
+                "thumbnail": "./models/3D/JFC JHB系列油缸/JHB-5x35.bmp",
+                "lina": "JHB-5x35",
+                "model": "JHB",
+                "installation": "-",
+                "bore": "-",
+                "stroke": "-",
+                "previewUrl": "models/3D/JFC%20JHB%E7%B3%BB%E5%88%97%E6%B2%B9%E7%BC%B8/JHB-5x35.scs",
+                "modelUrl": "models/3D/JFC%20JHB%E7%B3%BB%E5%88%97%E6%B2%B9%E7%BC%B8/JHB-5x35.prt",
+                "dwgFiles": [
+                  {
+                    "name": "JHB-5x35_front",
+                    "dwg": "models/2D/JFC%20JHB%E7%B3%BB%E5%88%97%E6%B2%B9%E7%BC%B8/JHB-5x35_front.dwg",
+                    "dcf": "models/2D/JFC%20JHB%E7%B3%BB%E5%88%97%E6%B2%B9%E7%BC%B8/JHB-5x35_front.dcf"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "project-13",
+            "title": "JFC JHSP系列油缸",
+            "type": "project",
+            "thumbnail": "./models/3D/JFC JHSP系列油缸/JHSP.bmp",
+            "updateDate": "2026/04/21",
+            "columns": [
+              {
+                "key": "select",
+                "title": "",
+                "dataIndex": "select",
+                "width": 50,
+                "align": "center"
+              },
+              {
+                "key": "index",
+                "title": "",
+                "dataIndex": "index",
+                "width": 50,
+                "align": "center"
+              },
+              {
+                "key": "thumbnail",
+                "title": "",
+                "dataIndex": "thumbnail",
+                "width": 100
+              },
+              {
+                "key": "lina",
+                "title": "LINA明细表",
+                "dataIndex": "lina",
+                "width": 200
+              },
+              {
+                "key": "model",
+                "title": "MODEL 型号",
+                "dataIndex": "model",
+                "width": 150
+              },
+              {
+                "key": "installation",
+                "title": "INSTALLATION 安装方式",
+                "dataIndex": "installation",
+                "width": 150
+              },
+              {
+                "key": "bore",
+                "title": "BORE 内径",
+                "dataIndex": "bore",
+                "width": 100,
+                "align": "center"
+              },
+              {
+                "key": "stroke",
+                "title": "STROKE 行程",
+                "dataIndex": "stroke",
+                "width": 100,
+                "align": "center"
+              }
+            ],
+            "models": [
+              {
+                "id": "project-13-1",
+                "index": 1,
+                "thumbnail": "./models/3D/JFC JHSP系列油缸/JHSP.bmp",
+                "lina": "JHSP",
+                "model": "JHSP",
+                "installation": "-",
+                "bore": "-",
+                "stroke": "-",
+                "previewUrl": "models/3D/JFC%20JHSP%E7%B3%BB%E5%88%97%E6%B2%B9%E7%BC%B8/JHSP.scs",
+                "modelUrl": "models/3D/JFC%20JHSP%E7%B3%BB%E5%88%97%E6%B2%B9%E7%BC%B8/JHSP.prt"
+              }
+            ]
+          },
+          {
+            "id": "project-14",
+            "title": "JFC JHSV系列油缸",
+            "type": "project",
+            "thumbnail": "./models/3D/JFC JHSV系列油缸/JHSV-L-A.bmp",
+            "updateDate": "2026/04/21",
+            "columns": [
+              {
+                "key": "select",
+                "title": "",
+                "dataIndex": "select",
+                "width": 50,
+                "align": "center"
+              },
+              {
+                "key": "index",
+                "title": "",
+                "dataIndex": "index",
+                "width": 50,
+                "align": "center"
+              },
+              {
+                "key": "thumbnail",
+                "title": "",
+                "dataIndex": "thumbnail",
+                "width": 100
+              },
+              {
+                "key": "lina",
+                "title": "LINA明细表",
+                "dataIndex": "lina",
+                "width": 200
+              },
+              {
+                "key": "model",
+                "title": "MODEL 型号",
+                "dataIndex": "model",
+                "width": 150
+              },
+              {
+                "key": "installation",
+                "title": "INSTALLATION 安装方式",
+                "dataIndex": "installation",
+                "width": 150
+              },
+              {
+                "key": "bore",
+                "title": "BORE 内径",
+                "dataIndex": "bore",
+                "width": 100,
+                "align": "center"
+              },
+              {
+                "key": "stroke",
+                "title": "STROKE 行程",
+                "dataIndex": "stroke",
+                "width": 100,
+                "align": "center"
+              }
+            ],
+            "models": [
+              {
+                "id": "project-14-1",
+                "index": 1,
+                "thumbnail": "./models/3D/JFC JHSV系列油缸/JHSV-L-A.bmp",
+                "lina": "JHSV-L-A",
+                "model": "JHSV",
+                "installation": "-",
+                "bore": "-",
+                "stroke": "-",
+                "previewUrl": "models/3D/JFC%20JHSV%E7%B3%BB%E5%88%97%E6%B2%B9%E7%BC%B8/JHSV-L-A.scs",
+                "modelUrl": "models/3D/JFC%20JHSV%E7%B3%BB%E5%88%97%E6%B2%B9%E7%BC%B8/JHSV-L-A.prt",
+                "dwgFiles": [
+                  {
+                    "name": "JHSV-L-A_front",
+                    "dwg": "models/2D/JFC%20JHSV%E7%B3%BB%E5%88%97%E6%B2%B9%E7%BC%B8/JHSV-L-A_front.dwg",
+                    "dcf": "models/2D/JFC%20JHSV%E7%B3%BB%E5%88%97%E6%B2%B9%E7%BC%B8/JHSV-L-A_front.dcf"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "project-15",
+            "title": "JFC JLSP系列油缸",
+            "type": "project",
+            "thumbnail": "./models/3D/JFC JLSP系列油缸/JLSP.bmp",
+            "updateDate": "2026/04/21",
+            "columns": [
+              {
+                "key": "select",
+                "title": "",
+                "dataIndex": "select",
+                "width": 50,
+                "align": "center"
+              },
+              {
+                "key": "index",
+                "title": "",
+                "dataIndex": "index",
+                "width": 50,
+                "align": "center"
+              },
+              {
+                "key": "thumbnail",
+                "title": "",
+                "dataIndex": "thumbnail",
+                "width": 100
+              },
+              {
+                "key": "lina",
+                "title": "LINA明细表",
+                "dataIndex": "lina",
+                "width": 200
+              },
+              {
+                "key": "model",
+                "title": "MODEL 型号",
+                "dataIndex": "model",
+                "width": 150
+              },
+              {
+                "key": "installation",
+                "title": "INSTALLATION 安装方式",
+                "dataIndex": "installation",
+                "width": 150
+              },
+              {
+                "key": "bore",
+                "title": "BORE 内径",
+                "dataIndex": "bore",
+                "width": 100,
+                "align": "center"
+              },
+              {
+                "key": "stroke",
+                "title": "STROKE 行程",
+                "dataIndex": "stroke",
+                "width": 100,
+                "align": "center"
+              }
+            ],
+            "models": [
+              {
+                "id": "project-15-1",
+                "index": 1,
+                "thumbnail": "./models/3D/JFC JLSP系列油缸/JLSP.bmp",
+                "lina": "JLSP",
+                "model": "JLSP",
+                "installation": "-",
+                "bore": "-",
+                "stroke": "-",
+                "previewUrl": "models/3D/JFC%20JLSP%E7%B3%BB%E5%88%97%E6%B2%B9%E7%BC%B8/JLSP.scs",
+                "modelUrl": "models/3D/JFC%20JLSP%E7%B3%BB%E5%88%97%E6%B2%B9%E7%BC%B8/JLSP.prt"
+              }
+            ]
+          },
+          {
+            "id": "project-16",
+            "title": "JFC JPRV系列油缸",
+            "type": "project",
+            "thumbnail": "./models/3D/JFC JPRV系列油缸/JPRV02-1.bmp",
+            "updateDate": "2026/04/21",
+            "columns": [
+              {
+                "key": "select",
+                "title": "",
+                "dataIndex": "select",
+                "width": 50,
+                "align": "center"
+              },
+              {
+                "key": "index",
+                "title": "",
+                "dataIndex": "index",
+                "width": 50,
+                "align": "center"
+              },
+              {
+                "key": "thumbnail",
+                "title": "",
+                "dataIndex": "thumbnail",
+                "width": 100
+              },
+              {
+                "key": "lina",
+                "title": "LINA明细表",
+                "dataIndex": "lina",
+                "width": 200
+              },
+              {
+                "key": "model",
+                "title": "MODEL 型号",
+                "dataIndex": "model",
+                "width": 150
+              },
+              {
+                "key": "installation",
+                "title": "INSTALLATION 安装方式",
+                "dataIndex": "installation",
+                "width": 150
+              },
+              {
+                "key": "bore",
+                "title": "BORE 内径",
+                "dataIndex": "bore",
+                "width": 100,
+                "align": "center"
+              },
+              {
+                "key": "stroke",
+                "title": "STROKE 行程",
+                "dataIndex": "stroke",
+                "width": 100,
+                "align": "center"
+              }
+            ],
+            "models": [
+              {
+                "id": "project-16-1",
+                "index": 1,
+                "thumbnail": "./models/3D/JFC JPRV系列油缸/JPRV02-1.bmp",
+                "lina": "JPRV02-1",
+                "model": "JPRV",
+                "installation": "-",
+                "bore": "-",
+                "stroke": "-",
+                "previewUrl": "models/3D/JFC%20JPRV%E7%B3%BB%E5%88%97%E6%B2%B9%E7%BC%B8/JPRV02-1.scs",
+                "modelUrl": "models/3D/JFC%20JPRV%E7%B3%BB%E5%88%97%E6%B2%B9%E7%BC%B8/JPRV02-1.prt",
+                "dwgFiles": [
+                  {
+                    "name": "JPRV02-1_front",
+                    "dwg": "models/2D/JFC%20JPRV%E7%B3%BB%E5%88%97%E6%B2%B9%E7%BC%B8/JPRV02-1_front.dwg",
+                    "dcf": "models/2D/JFC%20JPRV%E7%B3%BB%E5%88%97%E6%B2%B9%E7%BC%B8/JPRV02-1_front.dcf"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "project-17",
+            "title": "JFC JRAL系列油缸",
+            "type": "project",
+            "thumbnail": "./models/3D/JFC JRAL系列油缸/JEAL-R-SD-32-20T-EX(0).bmp",
+            "updateDate": "2026/04/21",
+            "columns": [
+              {
+                "key": "select",
+                "title": "",
+                "dataIndex": "select",
+                "width": 50,
+                "align": "center"
+              },
+              {
+                "key": "index",
+                "title": "",
+                "dataIndex": "index",
+                "width": 50,
+                "align": "center"
+              },
+              {
+                "key": "thumbnail",
+                "title": "",
+                "dataIndex": "thumbnail",
+                "width": 100
+              },
+              {
+                "key": "lina",
+                "title": "LINA明细表",
+                "dataIndex": "lina",
+                "width": 200
+              },
+              {
+                "key": "model",
+                "title": "MODEL 型号",
+                "dataIndex": "model",
+                "width": 150
+              },
+              {
+                "key": "installation",
+                "title": "INSTALLATION 安装方式",
+                "dataIndex": "installation",
+                "width": 150
+              },
+              {
+                "key": "bore",
+                "title": "BORE 内径",
+                "dataIndex": "bore",
+                "width": 100,
+                "align": "center"
+              },
+              {
+                "key": "stroke",
+                "title": "STROKE 行程",
+                "dataIndex": "stroke",
+                "width": 100,
+                "align": "center"
+              }
+            ],
+            "models": [
+              {
+                "id": "project-17-1",
+                "index": 1,
+                "thumbnail": "./models/3D/JFC JRAL系列油缸/JEAL-R-SD-32-20T-EX(0).bmp",
+                "lina": "JEAL-R-SD-32-20T-EX(0)",
+                "model": "JRAL",
+                "installation": "SD:基本型",
+                "bore": 32,
+                "stroke": 20,
+                "previewUrl": "models/3D/JFC%20JRAL%E7%B3%BB%E5%88%97%E6%B2%B9%E7%BC%B8/JEAL-R-SD-32-20T-EX(0).scs",
+                "modelUrl": "models/3D/JFC%20JRAL%E7%B3%BB%E5%88%97%E6%B2%B9%E7%BC%B8/JEAL-R-SD-32-20T-EX(0).prt"
+              },
+              {
+                "id": "project-17-2",
+                "index": 2,
+                "thumbnail": "./models/3D/JFC JRAL系列油缸/JEAL-R-SD-32-40T-EX(0).bmp",
+                "lina": "JEAL-R-SD-32-40T-EX(0)",
+                "model": "JRAL",
+                "installation": "SD:基本型",
+                "bore": 32,
+                "stroke": 40,
+                "previewUrl": "models/3D/JFC%20JRAL%E7%B3%BB%E5%88%97%E6%B2%B9%E7%BC%B8/JEAL-R-SD-32-40T-EX(0).scs",
+                "modelUrl": "models/3D/JFC%20JRAL%E7%B3%BB%E5%88%97%E6%B2%B9%E7%BC%B8/JEAL-R-SD-32-40T-EX(0).prt"
+              },
+              {
+                "id": "project-17-3",
+                "index": 3,
+                "thumbnail": "./models/3D/JFC JRAL系列油缸/JEAL-R-SD-32-60T-EX(0).bmp",
+                "lina": "JEAL-R-SD-32-60T-EX(0)",
+                "model": "JRAL",
+                "installation": "SD:基本型",
+                "bore": 32,
+                "stroke": 60,
+                "previewUrl": "models/3D/JFC%20JRAL%E7%B3%BB%E5%88%97%E6%B2%B9%E7%BC%B8/JEAL-R-SD-32-60T-EX(0).scs",
+                "modelUrl": "models/3D/JFC%20JRAL%E7%B3%BB%E5%88%97%E6%B2%B9%E7%BC%B8/JEAL-R-SD-32-60T-EX(0).prt"
+              }
+            ]
+          },
+          {
+            "id": "project-18",
+            "title": "JFC JSPAH系列油缸",
+            "type": "project",
+            "thumbnail": "./models/3D/JFC JSPAH系列油缸/JSPAH.bmp",
+            "updateDate": "2026/04/21",
+            "columns": [
+              {
+                "key": "select",
+                "title": "",
+                "dataIndex": "select",
+                "width": 50,
+                "align": "center"
+              },
+              {
+                "key": "index",
+                "title": "",
+                "dataIndex": "index",
+                "width": 50,
+                "align": "center"
+              },
+              {
+                "key": "thumbnail",
+                "title": "",
+                "dataIndex": "thumbnail",
+                "width": 100
+              },
+              {
+                "key": "lina",
+                "title": "LINA明细表",
+                "dataIndex": "lina",
+                "width": 200
+              },
+              {
+                "key": "model",
+                "title": "MODEL 型号",
+                "dataIndex": "model",
+                "width": 150
+              },
+              {
+                "key": "installation",
+                "title": "INSTALLATION 安装方式",
+                "dataIndex": "installation",
+                "width": 150
+              },
+              {
+                "key": "bore",
+                "title": "BORE 内径",
+                "dataIndex": "bore",
+                "width": 100,
+                "align": "center"
+              },
+              {
+                "key": "stroke",
+                "title": "STROKE 行程",
+                "dataIndex": "stroke",
+                "width": 100,
+                "align": "center"
+              }
+            ],
+            "models": [
+              {
+                "id": "project-18-1",
+                "index": 1,
+                "thumbnail": "./models/3D/JFC JSPAH系列油缸/JSPAH.bmp",
+                "lina": "JSPAH",
+                "model": "JSPAH",
+                "installation": "-",
+                "bore": "-",
+                "stroke": "-",
+                "previewUrl": "models/3D/JFC%20JSPAH%E7%B3%BB%E5%88%97%E6%B2%B9%E7%BC%B8/JSPAH.scs",
+                "modelUrl": "models/3D/JFC%20JSPAH%E7%B3%BB%E5%88%97%E6%B2%B9%E7%BC%B8/JSPAH.prt"
+              }
+            ]
+          },
+          {
+            "id": "project-19",
+            "title": "JFC JTC系列油缸",
+            "type": "project",
+            "thumbnail": "./models/3D/JFC JTC系列油缸/JFC JTC.bmp",
+            "updateDate": "2026/04/21",
+            "columns": [
+              {
+                "key": "select",
+                "title": "",
+                "dataIndex": "select",
+                "width": 50,
+                "align": "center"
+              },
+              {
+                "key": "index",
+                "title": "",
+                "dataIndex": "index",
+                "width": 50,
+                "align": "center"
+              },
+              {
+                "key": "thumbnail",
+                "title": "",
+                "dataIndex": "thumbnail",
+                "width": 100
+              },
+              {
+                "key": "lina",
+                "title": "LINA明细表",
+                "dataIndex": "lina",
+                "width": 200
+              },
+              {
+                "key": "model",
+                "title": "MODEL 型号",
+                "dataIndex": "model",
+                "width": 150
+              },
+              {
+                "key": "installation",
+                "title": "INSTALLATION 安装方式",
+                "dataIndex": "installation",
+                "width": 150
+              },
+              {
+                "key": "bore",
+                "title": "BORE 内径",
+                "dataIndex": "bore",
+                "width": 100,
+                "align": "center"
+              },
+              {
+                "key": "stroke",
+                "title": "STROKE 行程",
+                "dataIndex": "stroke",
+                "width": 100,
+                "align": "center"
+              }
+            ],
+            "models": [
+              {
+                "id": "project-19-1",
+                "index": 1,
+                "thumbnail": "./models/3D/JFC JTC系列油缸/JFC JTC.bmp",
+                "lina": "JFC JTC",
+                "model": "JTC",
+                "installation": "-",
+                "bore": "-",
+                "stroke": "-",
+                "previewUrl": "models/3D/JFC%20JTC%E7%B3%BB%E5%88%97%E6%B2%B9%E7%BC%B8/JFC%20JTC.scs",
+                "modelUrl": "models/3D/JFC%20JTC%E7%B3%BB%E5%88%97%E6%B2%B9%E7%BC%B8/JFC%20JTC.prt"
+              }
+            ]
+          },
+          {
+            "id": "project-20",
+            "title": "JFC NOS系列油缸",
+            "type": "project",
+            "thumbnail": "./models/3D/JFC NOS系列油缸/NOS2-SD-S-R-32x9015(0).bmp",
+            "updateDate": "2026/04/21",
+            "columns": [
+              {
+                "key": "select",
+                "title": "",
+                "dataIndex": "select",
+                "width": 50,
+                "align": "center"
+              },
+              {
+                "key": "index",
+                "title": "",
+                "dataIndex": "index",
+                "width": 50,
+                "align": "center"
+              },
+              {
+                "key": "thumbnail",
+                "title": "",
+                "dataIndex": "thumbnail",
+                "width": 100
+              },
+              {
+                "key": "lina",
+                "title": "LINA明细表",
+                "dataIndex": "lina",
+                "width": 200
+              },
+              {
+                "key": "model",
+                "title": "MODEL 型号",
+                "dataIndex": "model",
+                "width": 150
+              },
+              {
+                "key": "installation",
+                "title": "INSTALLATION 安装方式",
+                "dataIndex": "installation",
+                "width": 150
+              },
+              {
+                "key": "bore",
+                "title": "BORE 内径",
+                "dataIndex": "bore",
+                "width": 100,
+                "align": "center"
+              },
+              {
+                "key": "stroke",
+                "title": "STROKE 行程",
+                "dataIndex": "stroke",
+                "width": 100,
+                "align": "center"
+              }
+            ],
+            "models": [
+              {
+                "id": "project-20-1",
+                "index": 1,
+                "thumbnail": "./models/3D/JFC NOS系列油缸/NOS2-SD-S-R-32x9015(0).bmp",
+                "lina": "NOS2-SD-S-R-32x9015(0)",
+                "model": "NOS",
+                "installation": "SD:基本型",
+                "bore": 32,
+                "stroke": "-",
+                "previewUrl": "models/3D/JFC%20NOS%E7%B3%BB%E5%88%97%E6%B2%B9%E7%BC%B8/NOS2-SD-S-R-32x9015(0).scs",
+                "modelUrl": "models/3D/JFC%20NOS%E7%B3%BB%E5%88%97%E6%B2%B9%E7%BC%B8/NOS2-SD-S-R-32x9015(0).prt",
+                "dwgFiles": [
+                  {
+                    "name": "NOS2-SD-S-R-32x9015(0)_front",
+                    "dwg": "models/2D/JFC%20NOS%E7%B3%BB%E5%88%97%E6%B2%B9%E7%BC%B8/NOS2-SD-S-R-32x9015(0)_front.dwg",
+                    "dcf": "models/2D/JFC%20NOS%E7%B3%BB%E5%88%97%E6%B2%B9%E7%BC%B8/NOS2-SD-S-R-32x9015(0)_front.dcf"
+                  }
+                ]
+              },
+              {
+                "id": "project-20-2",
+                "index": 2,
+                "thumbnail": "./models/3D/JFC NOS系列油缸/OS4-SD-32 25(0).bmp",
                 "lina": "OS4-SD-32 25(0)",
                 "model": "NOS",
                 "installation": "SD:基本型",
-                "bore": "-",
-                "stroke": "-",
-                "previewUrl": "/models/JFC%20NOS%E7%B3%BB%E5%88%97%E6%B2%B9%E7%BC%B8/OS4-SD-32%2025(0).scs&exchangeType=scs",
-                "modelUrl": "/models/JFC%20NOS%E7%B3%BB%E5%88%97%E6%B2%B9%E7%BC%B8/OS4-SD-32%2025(0).prt"
+                "bore": 32,
+                "stroke": 25,
+                "previewUrl": "models/3D/JFC%20NOS%E7%B3%BB%E5%88%97%E6%B2%B9%E7%BC%B8/OS4-SD-32%2025(0).scs",
+                "modelUrl": "models/3D/JFC%20NOS%E7%B3%BB%E5%88%97%E6%B2%B9%E7%BC%B8/OS4-SD-32%2025(0).prt",
+                "dwgFiles": [
+                  {
+                    "name": "OS4-SD-32 25(0)_front",
+                    "dwg": "models/2D/JFC%20NOS%E7%B3%BB%E5%88%97%E6%B2%B9%E7%BC%B8/OS4-SD-32%2025(0)_front.dwg",
+                    "dcf": "models/2D/JFC%20NOS%E7%B3%BB%E5%88%97%E6%B2%B9%E7%BC%B8/OS4-SD-32%2025(0)_front.dcf"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "project-21",
+            "title": "JFC RD系列油缸",
+            "type": "project",
+            "thumbnail": "./models/3D/JFC RD系列油缸/RD-70-C-SD-32-100-RC_M14_1.5_.bmp",
+            "updateDate": "2026/04/21",
+            "columns": [
+              {
+                "key": "select",
+                "title": "",
+                "dataIndex": "select",
+                "width": 50,
+                "align": "center"
+              },
+              {
+                "key": "index",
+                "title": "",
+                "dataIndex": "index",
+                "width": 50,
+                "align": "center"
+              },
+              {
+                "key": "thumbnail",
+                "title": "",
+                "dataIndex": "thumbnail",
+                "width": 100
+              },
+              {
+                "key": "lina",
+                "title": "LINA明细表",
+                "dataIndex": "lina",
+                "width": 200
+              },
+              {
+                "key": "model",
+                "title": "MODEL 型号",
+                "dataIndex": "model",
+                "width": 150
+              },
+              {
+                "key": "installation",
+                "title": "INSTALLATION 安装方式",
+                "dataIndex": "installation",
+                "width": 150
+              },
+              {
+                "key": "bore",
+                "title": "BORE 内径",
+                "dataIndex": "bore",
+                "width": 100,
+                "align": "center"
+              },
+              {
+                "key": "stroke",
+                "title": "STROKE 行程",
+                "dataIndex": "stroke",
+                "width": 100,
+                "align": "center"
+              }
+            ],
+            "models": [
+              {
+                "id": "project-21-1",
+                "index": 1,
+                "thumbnail": "./models/3D/JFC RD系列油缸/RD-70-C-SD-32-100-RC_M14_1.5_.bmp",
+                "lina": "RD-70-C-SD-32-100-RC_M14_1.5_",
+                "model": "RD",
+                "installation": "SD:基本型",
+                "bore": 32,
+                "stroke": 100,
+                "previewUrl": "models/3D/JFC%20RD%E7%B3%BB%E5%88%97%E6%B2%B9%E7%BC%B8/RD-70-C-SD-32-100-RC_M14_1.5_.scs",
+                "modelUrl": "models/3D/JFC%20RD%E7%B3%BB%E5%88%97%E6%B2%B9%E7%BC%B8/RD-70-C-SD-32-100-RC_M14_1.5_.prt"
+              },
+              {
+                "id": "project-21-2",
+                "index": 2,
+                "thumbnail": "./models/3D/JFC RD系列油缸/RD-70-C-SD-32-150-RC_M14_1.5_.bmp",
+                "lina": "RD-70-C-SD-32-150-RC_M14_1.5_",
+                "model": "RD",
+                "installation": "SD:基本型",
+                "bore": 32,
+                "stroke": 150,
+                "previewUrl": "models/3D/JFC%20RD%E7%B3%BB%E5%88%97%E6%B2%B9%E7%BC%B8/RD-70-C-SD-32-150-RC_M14_1.5_.scs",
+                "modelUrl": "models/3D/JFC%20RD%E7%B3%BB%E5%88%97%E6%B2%B9%E7%BC%B8/RD-70-C-SD-32-150-RC_M14_1.5_.prt"
+              },
+              {
+                "id": "project-21-3",
+                "index": 3,
+                "thumbnail": "./models/3D/JFC RD系列油缸/RD-70-C-SD-32-50-RC_M14_1.5_.bmp",
+                "lina": "RD-70-C-SD-32-50-RC_M14_1.5_",
+                "model": "RD",
+                "installation": "SD:基本型",
+                "bore": 32,
+                "stroke": 50,
+                "previewUrl": "models/3D/JFC%20RD%E7%B3%BB%E5%88%97%E6%B2%B9%E7%BC%B8/RD-70-C-SD-32-50-RC_M14_1.5_.scs",
+                "modelUrl": "models/3D/JFC%20RD%E7%B3%BB%E5%88%97%E6%B2%B9%E7%BC%B8/RD-70-C-SD-32-50-RC_M14_1.5_.prt"
+              }
+            ]
+          },
+          {
+            "id": "project-22",
+            "title": "JFC REG系列油缸",
+            "type": "project",
+            "thumbnail": "./models/3D/JFC REG系列油缸/REG160-A-M00-C-32-100-RC(M14_1.5).bmp",
+            "updateDate": "2026/04/21",
+            "columns": [
+              {
+                "key": "select",
+                "title": "",
+                "dataIndex": "select",
+                "width": 50,
+                "align": "center"
+              },
+              {
+                "key": "index",
+                "title": "",
+                "dataIndex": "index",
+                "width": 50,
+                "align": "center"
+              },
+              {
+                "key": "thumbnail",
+                "title": "",
+                "dataIndex": "thumbnail",
+                "width": 100
+              },
+              {
+                "key": "lina",
+                "title": "LINA明细表",
+                "dataIndex": "lina",
+                "width": 200
+              },
+              {
+                "key": "model",
+                "title": "MODEL 型号",
+                "dataIndex": "model",
+                "width": 150
+              },
+              {
+                "key": "installation",
+                "title": "INSTALLATION 安装方式",
+                "dataIndex": "installation",
+                "width": 150
+              },
+              {
+                "key": "bore",
+                "title": "BORE 内径",
+                "dataIndex": "bore",
+                "width": 100,
+                "align": "center"
+              },
+              {
+                "key": "stroke",
+                "title": "STROKE 行程",
+                "dataIndex": "stroke",
+                "width": 100,
+                "align": "center"
+              }
+            ],
+            "models": [
+              {
+                "id": "project-22-1",
+                "index": 1,
+                "thumbnail": "./models/3D/JFC REG系列油缸/REG160-A-M00-C-32-100-RC(M14_1.5).bmp",
+                "lina": "REG160-A-M00-C-32-100-RC(M14_1.5)",
+                "model": "REG",
+                "installation": "-",
+                "bore": 32,
+                "stroke": 100,
+                "previewUrl": "models/3D/JFC%20REG%E7%B3%BB%E5%88%97%E6%B2%B9%E7%BC%B8/REG160-A-M00-C-32-100-RC(M14_1.5).scs",
+                "modelUrl": "models/3D/JFC%20REG%E7%B3%BB%E5%88%97%E6%B2%B9%E7%BC%B8/REG160-A-M00-C-32-100-RC(M14_1.5).prt",
+                "dwgFiles": [
+                  {
+                    "name": "REG160-A-M00-C-32-100-RC(M14_1.5)_front",
+                    "dwg": "models/2D/JFC%20REG%E7%B3%BB%E5%88%97%E6%B2%B9%E7%BC%B8/REG160-A-M00-C-32-100-RC(M14_1.5)_front.dwg",
+                    "dcf": "models/2D/JFC%20REG%E7%B3%BB%E5%88%97%E6%B2%B9%E7%BC%B8/REG160-A-M00-C-32-100-RC(M14_1.5)_front.dcf"
+                  }
+                ]
+              },
+              {
+                "id": "project-22-2",
+                "index": 2,
+                "thumbnail": "./models/3D/JFC REG系列油缸/REG160-A-M00-C-32-150-RC(M14_1.5).bmp",
+                "lina": "REG160-A-M00-C-32-150-RC(M14_1.5)",
+                "model": "REG",
+                "installation": "-",
+                "bore": 32,
+                "stroke": 150,
+                "previewUrl": "models/3D/JFC%20REG%E7%B3%BB%E5%88%97%E6%B2%B9%E7%BC%B8/REG160-A-M00-C-32-150-RC(M14_1.5).scs",
+                "modelUrl": "models/3D/JFC%20REG%E7%B3%BB%E5%88%97%E6%B2%B9%E7%BC%B8/REG160-A-M00-C-32-150-RC(M14_1.5).prt",
+                "dwgFiles": [
+                  {
+                    "name": "REG160-A-M00-C-32-150-RC(M14_1.5)_front",
+                    "dwg": "models/2D/JFC%20REG%E7%B3%BB%E5%88%97%E6%B2%B9%E7%BC%B8/REG160-A-M00-C-32-150-RC(M14_1.5)_front.dwg",
+                    "dcf": "models/2D/JFC%20REG%E7%B3%BB%E5%88%97%E6%B2%B9%E7%BC%B8/REG160-A-M00-C-32-150-RC(M14_1.5)_front.dcf"
+                  }
+                ]
+              },
+              {
+                "id": "project-22-3",
+                "index": 3,
+                "thumbnail": "./models/3D/JFC REG系列油缸/REG160-A-M00-C-32-50-RC(M14_1.5).bmp",
+                "lina": "REG160-A-M00-C-32-50-RC(M14_1.5)",
+                "model": "REG",
+                "installation": "-",
+                "bore": 32,
+                "stroke": 50,
+                "previewUrl": "models/3D/JFC%20REG%E7%B3%BB%E5%88%97%E6%B2%B9%E7%BC%B8/REG160-A-M00-C-32-50-RC(M14_1.5).scs",
+                "modelUrl": "models/3D/JFC%20REG%E7%B3%BB%E5%88%97%E6%B2%B9%E7%BC%B8/REG160-A-M00-C-32-50-RC(M14_1.5).prt",
+                "dwgFiles": [
+                  {
+                    "name": "REG160-A-M00-C-32-50-RC(M14_1.5)_front",
+                    "dwg": "models/2D/JFC%20REG%E7%B3%BB%E5%88%97%E6%B2%B9%E7%BC%B8/REG160-A-M00-C-32-50-RC(M14_1.5)_front.dwg",
+                    "dcf": "models/2D/JFC%20REG%E7%B3%BB%E5%88%97%E6%B2%B9%E7%BC%B8/REG160-A-M00-C-32-50-RC(M14_1.5)_front.dcf"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "project-23",
+            "title": "JFC SEG系列油缸",
+            "type": "project",
+            "thumbnail": "./models/3D/JFC SEG系列油缸/SEG160-A-ME5-C-32-100-RC.bmp",
+            "updateDate": "2026/04/21",
+            "columns": [
+              {
+                "key": "select",
+                "title": "",
+                "dataIndex": "select",
+                "width": 50,
+                "align": "center"
+              },
+              {
+                "key": "index",
+                "title": "",
+                "dataIndex": "index",
+                "width": 50,
+                "align": "center"
+              },
+              {
+                "key": "thumbnail",
+                "title": "",
+                "dataIndex": "thumbnail",
+                "width": 100
+              },
+              {
+                "key": "lina",
+                "title": "LINA明细表",
+                "dataIndex": "lina",
+                "width": 200
+              },
+              {
+                "key": "model",
+                "title": "MODEL 型号",
+                "dataIndex": "model",
+                "width": 150
+              },
+              {
+                "key": "installation",
+                "title": "INSTALLATION 安装方式",
+                "dataIndex": "installation",
+                "width": 150
+              },
+              {
+                "key": "bore",
+                "title": "BORE 内径",
+                "dataIndex": "bore",
+                "width": 100,
+                "align": "center"
+              },
+              {
+                "key": "stroke",
+                "title": "STROKE 行程",
+                "dataIndex": "stroke",
+                "width": 100,
+                "align": "center"
+              }
+            ],
+            "models": [
+              {
+                "id": "project-23-1",
+                "index": 1,
+                "thumbnail": "./models/3D/JFC SEG系列油缸/SEG160-A-ME5-C-32-100-RC.bmp",
+                "lina": "SEG160-A-ME5-C-32-100-RC",
+                "model": "SEG",
+                "installation": "-",
+                "bore": 32,
+                "stroke": 100,
+                "previewUrl": "models/3D/JFC%20SEG%E7%B3%BB%E5%88%97%E6%B2%B9%E7%BC%B8/SEG160-A-ME5-C-32-100-RC.scs",
+                "modelUrl": "models/3D/JFC%20SEG%E7%B3%BB%E5%88%97%E6%B2%B9%E7%BC%B8/SEG160-A-ME5-C-32-100-RC.prt",
+                "dwgFiles": [
+                  {
+                    "name": "SEG160-A-ME5-C-32-100-RC_front",
+                    "dwg": "models/2D/JFC%20SEG%E7%B3%BB%E5%88%97%E6%B2%B9%E7%BC%B8/SEG160-A-ME5-C-32-100-RC_front.dwg",
+                    "dcf": "models/2D/JFC%20SEG%E7%B3%BB%E5%88%97%E6%B2%B9%E7%BC%B8/SEG160-A-ME5-C-32-100-RC_front.dcf"
+                  }
+                ]
+              },
+              {
+                "id": "project-23-2",
+                "index": 2,
+                "thumbnail": "./models/3D/JFC SEG系列油缸/SEG160-A-ME5-C-32-150-RC.bmp",
+                "lina": "SEG160-A-ME5-C-32-150-RC",
+                "model": "SEG",
+                "installation": "-",
+                "bore": 32,
+                "stroke": 150,
+                "previewUrl": "models/3D/JFC%20SEG%E7%B3%BB%E5%88%97%E6%B2%B9%E7%BC%B8/SEG160-A-ME5-C-32-150-RC.scs",
+                "modelUrl": "models/3D/JFC%20SEG%E7%B3%BB%E5%88%97%E6%B2%B9%E7%BC%B8/SEG160-A-ME5-C-32-150-RC.prt",
+                "dwgFiles": [
+                  {
+                    "name": "SEG160-A-ME5-C-32-150-RC_front",
+                    "dwg": "models/2D/JFC%20SEG%E7%B3%BB%E5%88%97%E6%B2%B9%E7%BC%B8/SEG160-A-ME5-C-32-150-RC_front.dwg",
+                    "dcf": "models/2D/JFC%20SEG%E7%B3%BB%E5%88%97%E6%B2%B9%E7%BC%B8/SEG160-A-ME5-C-32-150-RC_front.dcf"
+                  }
+                ]
+              },
+              {
+                "id": "project-23-3",
+                "index": 3,
+                "thumbnail": "./models/3D/JFC SEG系列油缸/SEG160-A-ME5-C-32-50-RC.bmp",
+                "lina": "SEG160-A-ME5-C-32-50-RC",
+                "model": "SEG",
+                "installation": "-",
+                "bore": 32,
+                "stroke": 50,
+                "previewUrl": "models/3D/JFC%20SEG%E7%B3%BB%E5%88%97%E6%B2%B9%E7%BC%B8/SEG160-A-ME5-C-32-50-RC.scs",
+                "modelUrl": "models/3D/JFC%20SEG%E7%B3%BB%E5%88%97%E6%B2%B9%E7%BC%B8/SEG160-A-ME5-C-32-50-RC.prt",
+                "dwgFiles": [
+                  {
+                    "name": "SEG160-A-ME5-C-32-50-RC_front",
+                    "dwg": "models/2D/JFC%20SEG%E7%B3%BB%E5%88%97%E6%B2%B9%E7%BC%B8/SEG160-A-ME5-C-32-50-RC_front.dwg",
+                    "dcf": "models/2D/JFC%20SEG%E7%B3%BB%E5%88%97%E6%B2%B9%E7%BC%B8/SEG160-A-ME5-C-32-50-RC_front.dcf"
+                  }
+                ]
               }
             ]
           }
@@ -981,7 +2844,7 @@
       }
     }
   ],
-  "generatedAt": "2026-04-17T03:34:18.947Z",
-  "totalProjects": 6,
-  "totalModels": 49
+  "generatedAt": "2026-04-21T03:27:45.742Z",
+  "totalProjects": 23,
+  "totalModels": 87
 }
